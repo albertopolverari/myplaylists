@@ -1,0 +1,11 @@
+#EXTINF:-1 tvg-id="" group-title="VARI" tvg-logo="http://fulltv.biz/img/loghi/la7d.png",La7D
+http://fulltv.biz/script/grabber/janjuatv.m3u8?url=http%3A%2F%2Fwww.janjuaplayer.com%2Fhembedplayer%2Fla7d1a%2F3%2F620%2F380&ref=http%3A%2F%2Feasysite.one%2F
+
+#EXTINF:-1,(IT) LA 7 D
+http://ip.sltv.be:8000/live/ted123/ted123/58285.ts
+
+#EXTINF:-1,(SKY-IT) Real Time
+http://ip.sltv.be:8000/live/ted123/ted123/7789.ts
+
+#EXTINF:-1 tvg-ID="RealTime.it" tvg-name="Real Time HD" tvg-logo="" group-title="Intrattenimento",Real Time HD
+http://vgllive.com:41300/live/i10gR4J8aL/rs86ZhUcTS/3567.ts
