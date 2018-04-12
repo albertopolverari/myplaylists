@@ -3,7 +3,7 @@
 #EXT-X-TARGETDURATION:10
 #EXT-X-MEDIA-SEQUENCE:1086
 #EXTINF:11,
-http://2201.janjuaplayer.com:8088/live/la7d1a/media_1086.ts?id=78299&wowzasessionid=176946247&pk=e5d2295936503ac19abb4cdbe111d420fc3d5a3133945953057ac2cfd7fca691
+http://2201.janjuaplayer.com:8088/live/la7d1a/media_1086.ts?id=78299&pk=e5d2295936503ac19abb4cdbe111d420fc3d5a3133945953057ac2cfd7fca691
 #EXTINF:10,
 http://2201.janjuaplayer.com:8088/live/la7d1a/media_1087.ts?id=78299&wowzasessionid=176946247&pk=e5d2295936503ac19abb4cdbe111d420fc3d5a3133945953057ac2cfd7fca691
 #EXTINF:10,
