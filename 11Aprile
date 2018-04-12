@@ -1,5 +1,5 @@
 #EXTM3U
 #EXTINF:0, Test
-rtmp://janjuapublisher.com:1935/loadbalancer?id=79450 conn=S:OK 
+rtmp://janjuapublisher.com:1935/loadbalancer?id=79450 playpath=realtimevvcc?id=79450 conn=S:OK 
 swfUrl=http://www.janjua.tv/resources/scripts/eplayer.swf 
 pageUrl=http://www.janjua.tv/embedplayer/realtimevvcc/3/620/380 live=1 swfVfy=1 timeout=15
