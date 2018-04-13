@@ -1,41 +1,997 @@
-#NAME IPTV
-#SERVICE 4097:0:1:2:0:0:0:0:0:0:http%3a//secure.selling-team.cn%3a80/live/user1320/iAZWhMoaHK/22131.ts:Rai 1 FHD
-#DESCRIPTION Rai 1 FHD
-#SERVICE 4097:0:1:4:0:0:0:0:0:0:http%3a//secure.selling-team.cn%3a80/live/user1320/iAZWhMoaHK/22132.ts:Rai 2 FHD
-#DESCRIPTION Rai 2 FHD
-#SERVICE 4097:0:1:6:0:0:0:0:0:0:http%3a//secure.selling-team.cn%3a80/live/user1320/iAZWhMoaHK/22133.ts:Rai 3 FHD
-#DESCRIPTION Rai 3 FHD
-#SERVICE 4097:0:1:8:0:0:0:0:0:0:http%3a//secure.selling-team.cn%3a80/live/user1320/iAZWhMoaHK/22134.ts:Rete 4 FHD
-#DESCRIPTION Rete 4 FHD
-#SERVICE 4097:0:1:10:0:0:0:0:0:0:http%3a//secure.selling-team.cn%3a80/live/user1320/iAZWhMoaHK/22135.ts:Canale 5 FHD
-#DESCRIPTION Canale 5 FHD
-#SERVICE 4097:0:1:12:0:0:0:0:0:0:http%3a//secure.selling-team.cn%3a80/live/user1320/iAZWhMoaHK/22136.ts:Italia 1 FHD
-#DESCRIPTION Italia 1 FHD
-#SERVICE 4097:0:1:14:0:0:0:0:0:0:http%3a//secure.selling-team.cn%3a80/live/user1320/iAZWhMoaHK/1016.ts:Mediaset Extra
-#DESCRIPTION Mediaset Extra
-#SERVICE 4097:0:1:16:0:0:0:0:0:0:http%3a//secure.selling-team.cn%3a80/live/user1320/iAZWhMoaHK/1015.ts:Italia 2
-#DESCRIPTION Italia 2
-#SERVICE 4097:0:1:18:0:0:0:0:0:0:http%3a//secure.selling-team.cn%3a80/live/user1320/iAZWhMoaHK/1619.ts:Top Crime
-#DESCRIPTION Top Crime
-#SERVICE 4097:0:1:20:0:0:0:0:0:0:http%3a//secure.selling-team.cn%3a80/live/user1320/iAZWhMoaHK/8696.ts:TV8
-#DESCRIPTION TV8
-#SERVICE 4097:0:1:22:0:0:0:0:0:0:http%3a//secure.selling-team.cn%3a80/live/user1320/iAZWhMoaHK/33602.ts:Nove HD
-#DESCRIPTION Nove HD
-#SERVICE 4097:0:1:24:0:0:0:0:0:0:http%3a//secure.selling-team.cn%3a80/live/user1320/iAZWhMoaHK/69206.ts:Rai 4 FHD
-#DESCRIPTION Rai 4 FHD
-#SERVICE 4097:0:1:26:0:0:0:0:0:0:http%3a//secure.selling-team.cn%3a80/live/user1320/iAZWhMoaHK/1282.ts:Rai 5 FHD
-#DESCRIPTION Rai 5 FHD
-#SERVICE 4097:0:1:28:0:0:0:0:0:0:http%3a//secure.selling-team.cn%3a80/live/user1320/iAZWhMoaHK/4127.ts:LA7 HD
-#DESCRIPTION LA7 HD
-#SERVICE 4097:0:1:30:0:0:0:0:0:0:http%3a//secure.selling-team.cn%3a80/live/user1320/iAZWhMoaHK/27578.ts:La7d HD
-#DESCRIPTION La7d HD
-#SERVICE 4097:0:1:32:0:0:0:0:0:0:http%3a//secure.selling-team.cn%3a80/live/user1320/iAZWhMoaHK/1280.ts:Iris
-#DESCRIPTION Iris
-#SERVICE 4097:0:1:34:0:0:0:0:0:0:http%3a//secure.selling-team.cn%3a80/live/user1320/iAZWhMoaHK/1281.ts:Alice
-#DESCRIPTION Alice
-#SERVICE 4097:0:1:36:0:0:0:0:0:0:http%3a//secure.selling-team.cn%3a80/live/user1320/iAZWhMoaHK/32790.ts:Rai Storia HD
-#DESCRIPTION Rai Storia HD
-#SERVICE 4097:0:1:38:0:0:0:0:0:0:http%3a//secure.selling-team.cn%3a80/live/user1320/iAZWhMoaHK/32787.ts:Rai Movie HD
-#DESCRIPTION Rai Movie HD
-#SERVICE 4097:0:1:40:0:0:0:0:0:0:http%3a//secure.selling-team.cn%3a80/live/user1320/iAZWhMoaHK/1233.ts:Rai Premium HD
-#DESCRIPTION Rai Premium HD
+#EXTM3U
+#EXTINF:-1 tvg-id="" group-title="RAI",Rai 1 HD
+http://mondial.cybergroup.top:8000/live/srzf/308wa/1.ts
+#EXTINF:-1 tvg-id="" group-title="RAI",Rai 2 HD
+http://mondial.cybergroup.top:8000/live/srzf/308wa/2.ts
+#EXTINF:-1 tvg-id="" group-title="RAI",Rai 3 HD
+http://mondial.cybergroup.top:8000/live/srzf/308wa/3.ts
+#EXTINF:-1,Rete 4 HD
+http://mondial.cybergroup.top:8000/live/srzf/308wa/4.ts
+#EXTINF:-1,Canale 5 HD
+http://mondial.cybergroup.top:8000/live/srzf/308wa/5.ts
+#EXTINF:-1,Italia 1 HD
+http://mondial.cybergroup.top:8000/live/srzf/308wa/6.ts
+#EXTINF:-1,NOVE
+http://mondial.cybergroup.top:8000/live/srzf/308wa/3354.ts
+#EXTINF:-1 tvg-id="" group-title="RAI",Rai Movie HD
+http://mondial.cybergroup.top:8000/live/srzf/308wa/9652.ts
+#EXTINF:-1,LA 7 HD
+http://mondial.cybergroup.top:8000/live/srzf/308wa/7.ts
+#EXTINF:-1,LA 7d
+http://mondial.cybergroup.top:8000/live/srzf/308wa/8.ts
+#EXTINF:-1,RSI LA 1 HD
+http://mondial.cybergroup.top:8000/live/srzf/308wa/10.ts
+#EXTINF:-1,RSI LA 2 HD
+http://mondial.cybergroup.top:8000/live/srzf/308wa/9.ts
+#EXTINF:-1 tvg-id="" group-title="RAI",Rai 4 HD
+http://mondial.cybergroup.top:8000/live/srzf/308wa/38.ts
+#EXTINF:-1 tvg-id="" group-title="RAI",Rai 5
+http://mondial.cybergroup.top:8000/live/srzf/308wa/405.ts
+#EXTINF:-1,La 5
+http://mondial.cybergroup.top:8000/live/srzf/308wa/20.ts
+#EXTINF:-1,TV8 Italia HD
+http://mondial.cybergroup.top:8000/live/srzf/308wa/2309.ts
+#EXTINF:-1,Mediaset Extra
+http://mondial.cybergroup.top:8000/live/srzf/308wa/12.ts
+#EXTINF:-1,Mediaset Italia 2
+http://mondial.cybergroup.top:8000/live/srzf/308wa/16.ts
+#EXTINF:-1,Italia 7 Gold
+http://mondial.cybergroup.top:8000/live/srzf/308wa/5206.ts
+#EXTINF:-1,iris
+http://mondial.cybergroup.top:8000/live/srzf/308wa/17.ts
+#EXTINF:-1,Giallo
+http://mondial.cybergroup.top:8000/live/srzf/308wa/19.ts
+#EXTINF:-1,Rai Premium HD
+http://mondial.cybergroup.top:8000/live/srzf/308wa/2314.ts
+#EXTINF:-1,Espansione TV
+http://mondial.cybergroup.top:8000/live/srzf/308wa/5207.ts
+#EXTINF:-1,UnireSat HD
+http://mondial.cybergroup.top:8000/live/srzf/308wa/21040.ts
+#EXTINF:-1,===== SKY CINEMA =====
+http://mondial.cybergroup.top:8000/live/srzf/308wa/43.ts
+#EXTINF:-1,Sky 3D HD
+http://mondial.cybergroup.top:8000/live/srzf/308wa/145.ts
+#EXTINF:-1,Sky Cinema 1 HD
+http://mondial.cybergroup.top:8000/live/srzf/308wa/6918.ts
+#EXTINF:-1,Sky Cinema +1 HD
+http://mondial.cybergroup.top:8000/live/srzf/308wa/9984.ts
+#EXTINF:-1,Sky Cinema +24 HD
+http://mondial.cybergroup.top:8000/live/srzf/308wa/1433.ts
+#EXTINF:-1,Cinema Family FHD
+http://mondial.cybergroup.top:8000/live/srzf/308wa/21075.ts
+#EXTINF:-1,Sky Cinema Family HD
+http://mondial.cybergroup.top:8000/live/srzf/308wa/50.ts
+#EXTINF:-1,Sky Cinema Family +1 HD
+http://mondial.cybergroup.top:8000/live/srzf/308wa/2269.ts
+#EXTINF:-1,Sky Cinema Passion HD
+http://mondial.cybergroup.top:8000/live/srzf/308wa/45.ts
+#EXTINF:-1,Sky Cinema Passion +1 HD
+http://mondial.cybergroup.top:8000/live/srzf/308wa/6371.ts
+#EXTINF:-1,Cinema Max FHD
+http://mondial.cybergroup.top:8000/live/srzf/308wa/21074.ts
+#EXTINF:-1,Sky Cinema Max HD
+http://mondial.cybergroup.top:8000/live/srzf/308wa/46.ts
+#EXTINF:-1,Sky Cinema Max +1 HD
+http://mondial.cybergroup.top:8000/live/srzf/308wa/2273.ts
+#EXTINF:-1,Sky Cinema Hits FHD
+http://mondial.cybergroup.top:8000/live/srzf/308wa/21065.ts
+#EXTINF:-1,Sky Cinema Hits HD
+http://mondial.cybergroup.top:8000/live/srzf/308wa/48.ts
+#EXTINF:-1,Sky Cinema Hits +1 HD
+http://mondial.cybergroup.top:8000/live/srzf/308wa/6373.ts
+#EXTINF:-1,Sky Cinema Cult HD
+http://mondial.cybergroup.top:8000/live/srzf/308wa/49.ts
+#EXTINF:-1,Sky Cinema Cult +1 HD
+http://mondial.cybergroup.top:8000/live/srzf/308wa/10570.ts
+#EXTINF:-1,Cinema Comedy FHD
+http://mondial.cybergroup.top:8000/live/srzf/308wa/21076.ts
+#EXTINF:-1,Sky Cinema Comedy HD
+http://mondial.cybergroup.top:8000/live/srzf/308wa/51.ts
+#EXTINF:-1,Sky Cinema Comedy +1 HD
+http://mondial.cybergroup.top:8000/live/srzf/308wa/6370.ts
+#EXTINF:-1,Sky Cinema Classic HD
+http://mondial.cybergroup.top:8000/live/srzf/308wa/52.ts
+#EXTINF:-1,Sky Cinema Classic +1 HD
+http://mondial.cybergroup.top:8000/live/srzf/308wa/10571.ts
+#EXTINF:-1,Action Channel
+http://mondial.cybergroup.top:8000/live/srzf/308wa/21425.ts
+#EXTINF:-1,Marvel Channel
+http://mondial.cybergroup.top:8000/live/srzf/308wa/21427.ts
+#EXTINF:-1,Cult '80 Channel
+http://mondial.cybergroup.top:8000/live/srzf/308wa/21426.ts
+#EXTINF:-1,===== SKY CINEMA SD =====
+http://mondial.cybergroup.top:8000/live/srzf/308wa/144.ts
+#EXTINF:-1,Sky Cinema 1 SD
+http://mondial.cybergroup.top:8000/live/srzf/308wa/2127.ts
+#EXTINF:-1,Sky Cinema +1 SD
+http://mondial.cybergroup.top:8000/live/srzf/308wa/2128.ts
+#EXTINF:-1,Sky Cinema  +24 SD
+http://mondial.cybergroup.top:8000/live/srzf/308wa/2129.ts
+#EXTINF:-1,Sky Cinema Family SD
+http://mondial.cybergroup.top:8000/live/srzf/308wa/2131.ts
+#EXTINF:-1,Sky Cinema Passion SD
+http://mondial.cybergroup.top:8000/live/srzf/308wa/2134.ts
+#EXTINF:-1,Sky Cinema Max SD
+http://mondial.cybergroup.top:8000/live/srzf/308wa/2132.ts
+#EXTINF:-1,Sky Cinema Max +1 SD
+http://mondial.cybergroup.top:8000/live/srzf/308wa/2276.ts
+#EXTINF:-1,Sky Cinema Hits SD
+http://mondial.cybergroup.top:8000/live/srzf/308wa/2130.ts
+#EXTINF:-1,Sky Cinema Cult SD
+http://mondial.cybergroup.top:8000/live/srzf/308wa/2135.ts
+#EXTINF:-1,Sky Cinema Comedy SD
+http://mondial.cybergroup.top:8000/live/srzf/308wa/2133.ts
+#EXTINF:-1,===== INTRATTENIMENTO  =====
+http://mondial.cybergroup.top:8000/live/srzf/308wa/129.ts
+#EXTINF:-1,Sky Uno HD
+http://mondial.cybergroup.top:8000/live/srzf/308wa/54.ts
+#EXTINF:-1,Sky Uno +1 HD
+http://mondial.cybergroup.top:8000/live/srzf/308wa/2277.ts
+#EXTINF:-1,Sky Atlantic HD
+http://mondial.cybergroup.top:8000/live/srzf/308wa/53.ts
+#EXTINF:-1,Sky Atlantic +1 HD
+http://mondial.cybergroup.top:8000/live/srzf/308wa/2278.ts
+#EXTINF:-1,Fox HD
+http://mondial.cybergroup.top:8000/live/srzf/308wa/85.ts
+#EXTINF:-1,Fox SD
+http://mondial.cybergroup.top:8000/live/srzf/308wa/5225.ts
+#EXTINF:-1,Fox +1 HD
+http://mondial.cybergroup.top:8000/live/srzf/308wa/2279.ts
+#EXTINF:-1,Fox Life HD
+http://mondial.cybergroup.top:8000/live/srzf/308wa/309.ts
+#EXTINF:-1,Fox Life SD
+http://mondial.cybergroup.top:8000/live/srzf/308wa/5226.ts
+#EXTINF:-1,Fox Life +1 HD
+http://mondial.cybergroup.top:8000/live/srzf/308wa/2280.ts
+#EXTINF:-1,Fox Comedy HD
+http://mondial.cybergroup.top:8000/live/srzf/308wa/2283.ts
+#EXTINF:-1,Fox Comedy +1 HD
+http://mondial.cybergroup.top:8000/live/srzf/308wa/10573.ts
+#EXTINF:-1,Fox Animation HD
+http://mondial.cybergroup.top:8000/live/srzf/308wa/58.ts
+#EXTINF:-1,Fox Animation +1 HD
+http://mondial.cybergroup.top:8000/live/srzf/308wa/10574.ts
+#EXTINF:-1,Fox Crime HD
+http://mondial.cybergroup.top:8000/live/srzf/308wa/2281.ts
+#EXTINF:-1,Fox Crime SD
+http://mondial.cybergroup.top:8000/live/srzf/308wa/5227.ts
+#EXTINF:-1,Fox Crime +1 HD
+http://mondial.cybergroup.top:8000/live/srzf/308wa/2282.ts
+#EXTINF:-1,Sky Comedy Central
+http://mondial.cybergroup.top:8000/live/srzf/308wa/8985.ts
+#EXTINF:-1,Sky Blaze HD
+http://mondial.cybergroup.top:8000/live/srzf/308wa/21099.ts
+#EXTINF:-1,CI Crime Investigation HD
+http://mondial.cybergroup.top:8000/live/srzf/308wa/143.ts
+#EXTINF:-1,Premium Investigation Discovery
+http://mondial.cybergroup.top:8000/live/srzf/308wa/8671.ts
+#EXTINF:-1,Top Crime
+http://mondial.cybergroup.top:8000/live/srzf/308wa/15.ts
+#EXTINF:-1,Real Time HD
+http://mondial.cybergroup.top:8000/live/srzf/308wa/13.ts
+#EXTINF:-1,Real Time +1 HD
+http://mondial.cybergroup.top:8000/live/srzf/308wa/708.ts
+#EXTINF:-1,Class TV Moda
+http://mondial.cybergroup.top:8000/live/srzf/308wa/10619.ts
+#EXTINF:-1,Sky LaEffe
+http://mondial.cybergroup.top:8000/live/srzf/308wa/12589.ts
+#EXTINF:-1,Sky Lei
+http://mondial.cybergroup.top:8000/live/srzf/308wa/12668.ts
+#EXTINF:-1,Fashion TV
+http://mondial.cybergroup.top:8000/live/srzf/308wa/23364.ts
+#EXTINF:-1,Fine Living
+http://mondial.cybergroup.top:8000/live/srzf/308wa/6838.ts
+#EXTINF:-1,TV2000
+http://mondial.cybergroup.top:8000/live/srzf/308wa/3355.ts
+#EXTINF:-1,Focus
+http://mondial.cybergroup.top:8000/live/srzf/308wa/14.ts
+#EXTINF:-1,Cielo
+http://mondial.cybergroup.top:8000/live/srzf/308wa/21.ts
+#EXTINF:-1,QVC
+http://mondial.cybergroup.top:8000/live/srzf/308wa/418.ts
+#EXTINF:-1,AXN HD
+http://mondial.cybergroup.top:8000/live/srzf/308wa/86.ts
+#EXTINF:-1,Alice
+http://mondial.cybergroup.top:8000/live/srzf/308wa/22.ts
+#EXTINF:-1,E! Entertainement
+http://mondial.cybergroup.top:8000/live/srzf/308wa/5219.ts
+#EXTINF:-1,Sposa HD
+http://mondial.cybergroup.top:8000/live/srzf/308wa/5218.ts
+#EXTINF:-1,Food Network
+http://mondial.cybergroup.top:8000/live/srzf/308wa/21221.ts
+#EXTINF:-1,===== CULTURA =====
+http://mondial.cybergroup.top:8000/live/srzf/308wa/128.ts
+#EXTINF:-1,Discovery HD
+http://mondial.cybergroup.top:8000/live/srzf/308wa/326.ts
+#EXTINF:-1,Discovery +1 HD
+http://mondial.cybergroup.top:8000/live/srzf/308wa/10596.ts
+#EXTINF:-1,Discovery Travel & Living HD
+http://mondial.cybergroup.top:8000/live/srzf/308wa/325.ts
+#EXTINF:-1,Discovery Travel & Living +1 HD
+http://mondial.cybergroup.top:8000/live/srzf/308wa/10594.ts
+#EXTINF:-1,Discovery Sci HD
+http://mondial.cybergroup.top:8000/live/srzf/308wa/61.ts
+#EXTINF:-1,Discovery Sci +1 HD
+http://mondial.cybergroup.top:8000/live/srzf/308wa/10595.ts
+#EXTINF:-1,National Geographic HD
+http://mondial.cybergroup.top:8000/live/srzf/308wa/327.ts
+#EXTINF:-1,National Geografic +1 HD
+http://mondial.cybergroup.top:8000/live/srzf/308wa/10598.ts
+#EXTINF:-1,NatGeo People HD
+http://mondial.cybergroup.top:8000/live/srzf/308wa/59.ts
+#EXTINF:-1,NatGeo People +1 HD
+http://mondial.cybergroup.top:8000/live/srzf/308wa/10599.ts
+#EXTINF:-1,NatGeo Wild HD
+http://mondial.cybergroup.top:8000/live/srzf/308wa/2289.ts
+#EXTINF:-1,NatGeo Wild +1 HD
+http://mondial.cybergroup.top:8000/live/srzf/308wa/10600.ts
+#EXTINF:-1,Dmax
+http://mondial.cybergroup.top:8000/live/srzf/308wa/18.ts
+#EXTINF:-1,Dmax +1
+http://mondial.cybergroup.top:8000/live/srzf/308wa/5208.ts
+#EXTINF:-1,Sky Classica HD
+http://mondial.cybergroup.top:8000/live/srzf/308wa/5212.ts
+#EXTINF:-1,MarcoPolo
+http://mondial.cybergroup.top:8000/live/srzf/308wa/30.ts
+#EXTINF:-1,Padre Pio TV
+http://mondial.cybergroup.top:8000/live/srzf/308wa/8357.ts
+#EXTINF:-1,Rai Storia HD
+http://mondial.cybergroup.top:8000/live/srzf/308wa/10623.ts
+#EXTINF:-1,Rai Scuola HD
+http://mondial.cybergroup.top:8000/live/srzf/308wa/10622.ts
+#EXTINF:-1,Sky Arte HD
+http://mondial.cybergroup.top:8000/live/srzf/308wa/55.ts
+#EXTINF:-1,History HD
+http://mondial.cybergroup.top:8000/live/srzf/308wa/56.ts
+#EXTINF:-1,Italian Fishing
+http://mondial.cybergroup.top:8000/live/srzf/308wa/9651.ts
+#EXTINF:-1,Gambero Rosso HD
+http://mondial.cybergroup.top:8000/live/srzf/308wa/42.ts
+#EXTINF:-1,Caccia e Pesca
+http://mondial.cybergroup.top:8000/live/srzf/308wa/67.ts
+#EXTINF:-1,Pesca e Caccia
+http://mondial.cybergroup.top:8000/live/srzf/308wa/2299.ts
+#EXTINF:-1,Pescare & Cacciare TV
+http://mondial.cybergroup.top:8000/live/srzf/308wa/10039.ts
+#EXTINF:-1,Animal Planet
+http://mondial.cybergroup.top:8000/live/srzf/308wa/41.ts
+#EXTINF:-1,===== BAMBINI =====
+http://mondial.cybergroup.top:8000/live/srzf/308wa/130.ts
+#EXTINF:-1,Cartoon Network
+http://mondial.cybergroup.top:8000/live/srzf/308wa/8812.ts
+#EXTINF:-1,Boing
+http://mondial.cybergroup.top:8000/live/srzf/308wa/25.ts
+#EXTINF:-1,Boomerang
+http://mondial.cybergroup.top:8000/live/srzf/308wa/21277.ts
+#EXTINF:-1,POP
+http://mondial.cybergroup.top:8000/live/srzf/308wa/21276.ts
+#EXTINF:-1,Rai Yoyo HD
+http://mondial.cybergroup.top:8000/live/srzf/308wa/10624.ts
+#EXTINF:-1,Rai YoYo
+http://mondial.cybergroup.top:8000/live/srzf/308wa/34.ts
+#EXTINF:-1,Rai Gulp HD
+http://mondial.cybergroup.top:8000/live/srzf/308wa/10620.ts
+#EXTINF:-1,Cartoonito
+http://mondial.cybergroup.top:8000/live/srzf/308wa/281.ts
+#EXTINF:-1,Manga
+http://mondial.cybergroup.top:8000/live/srzf/308wa/35.ts
+#EXTINF:-1,Frisbee
+http://mondial.cybergroup.top:8000/live/srzf/308wa/32.ts
+#EXTINF:-1,Super
+http://mondial.cybergroup.top:8000/live/srzf/308wa/31.ts
+#EXTINF:-1,Disney XD
+http://mondial.cybergroup.top:8000/live/srzf/308wa/65.ts
+#EXTINF:-1,K2
+http://mondial.cybergroup.top:8000/live/srzf/308wa/33.ts
+#EXTINF:-1,Disney Channel HD
+http://mondial.cybergroup.top:8000/live/srzf/308wa/8712.ts
+#EXTINF:-1,Disney Channel +1 HD
+http://mondial.cybergroup.top:8000/live/srzf/308wa/8813.ts
+#EXTINF:-1,Disney Channel +2 HD
+http://mondial.cybergroup.top:8000/live/srzf/308wa/10606.ts
+#EXTINF:-1,Disney Junior
+http://mondial.cybergroup.top:8000/live/srzf/308wa/8814.ts
+#EXTINF:-1,Disney Junior +1
+http://mondial.cybergroup.top:8000/live/srzf/308wa/10607.ts
+#EXTINF:-1,Sky DeaKids
+http://mondial.cybergroup.top:8000/live/srzf/308wa/12680.ts
+#EXTINF:-1,Sky DeaJunior
+http://mondial.cybergroup.top:8000/live/srzf/308wa/21039.ts
+#EXTINF:-1,Sky Nickelodeon
+http://mondial.cybergroup.top:8000/live/srzf/308wa/12679.ts
+#EXTINF:-1,Baby TV
+http://mondial.cybergroup.top:8000/live/srzf/308wa/12693.ts
+#EXTINF:-1,BarbaPapà Channel
+http://mondial.cybergroup.top:8000/live/srzf/308wa/12678.ts
+#EXTINF:-1,Tom & Jerry Channel
+http://mondial.cybergroup.top:8000/live/srzf/308wa/12677.ts
+#EXTINF:-1,Walt Disney Channel
+http://mondial.cybergroup.top:8000/live/srzf/308wa/12676.ts
+#EXTINF:-1,Scooby Doo Channel
+http://mondial.cybergroup.top:8000/live/srzf/308wa/12675.ts
+#EXTINF:-1,PJ Masks Pigiamini Channel
+http://mondial.cybergroup.top:8000/live/srzf/308wa/12674.ts
+#EXTINF:-1,Peppa Pig Channel 1
+http://mondial.cybergroup.top:8000/live/srzf/308wa/12672.ts
+#EXTINF:-1,Peppa Pig Channel 2
+http://mondial.cybergroup.top:8000/live/srzf/308wa/12671.ts
+#EXTINF:-1,Peppa Pig Channel 3
+http://mondial.cybergroup.top:8000/live/srzf/308wa/12670.ts
+#EXTINF:-1,Peppa Pig Channel 4
+http://mondial.cybergroup.top:8000/live/srzf/308wa/12669.ts
+#EXTINF:-1,Masha & Orso Channel
+http://mondial.cybergroup.top:8000/live/srzf/308wa/12673.ts
+#EXTINF:-1,I Griffin Channel
+http://mondial.cybergroup.top:8000/live/srzf/308wa/16770.ts
+#EXTINF:-1,Il Corpo Umano Channel
+http://mondial.cybergroup.top:8000/live/srzf/308wa/16769.ts
+#EXTINF:-1,La Casa di Topolino Channel
+http://mondial.cybergroup.top:8000/live/srzf/308wa/16768.ts
+#EXTINF:-1,Paw Patrol Channel
+http://mondial.cybergroup.top:8000/live/srzf/308wa/16767.ts
+#EXTINF:-1,Super Wings Channel
+http://mondial.cybergroup.top:8000/live/srzf/308wa/20302.ts
+#EXTINF:-1,Ken il Guerriero Channel
+http://mondial.cybergroup.top:8000/live/srzf/308wa/21428.ts
+#EXTINF:-1,Yattaman Channel
+http://mondial.cybergroup.top:8000/live/srzf/308wa/21429.ts
+#EXTINF:-1,===== SPORT =====
+http://mondial.cybergroup.top:8000/live/srzf/308wa/126.ts
+#EXTINF:-1,Sky Sport 24 HD
+http://mondial.cybergroup.top:8000/live/srzf/308wa/81.ts
+#EXTINF:-1,Sky Sport 24 SD
+http://mondial.cybergroup.top:8000/live/srzf/308wa/10061.ts
+#EXTINF:-1,Sky Sport 1 FHD
+http://mondial.cybergroup.top:8000/live/srzf/308wa/21081.ts
+#EXTINF:-1,Sky Sport 1 HD
+http://mondial.cybergroup.top:8000/live/srzf/308wa/82.ts
+#EXTINF:-1,Sky Sport 1 SD
+http://mondial.cybergroup.top:8000/live/srzf/308wa/5224.ts
+#EXTINF:-1,Sky Sport 1 +1 HD
+http://mondial.cybergroup.top:8000/live/srzf/308wa/10578.ts
+#EXTINF:-1,Sky Sport 2 FHD
+http://mondial.cybergroup.top:8000/live/srzf/308wa/21080.ts
+#EXTINF:-1,Sky Sport 2 HD
+http://mondial.cybergroup.top:8000/live/srzf/308wa/83.ts
+#EXTINF:-1,Sky Sport 2 SD
+http://mondial.cybergroup.top:8000/live/srzf/308wa/5281.ts
+#EXTINF:-1,Sky Sport 2 +1 HD
+http://mondial.cybergroup.top:8000/live/srzf/308wa/10579.ts
+#EXTINF:-1,Sky Sport 3 FHD
+http://mondial.cybergroup.top:8000/live/srzf/308wa/21079.ts
+#EXTINF:-1,Sky Sport 3 HD
+http://mondial.cybergroup.top:8000/live/srzf/308wa/84.ts
+#EXTINF:-1,Sky Sport 3 SD
+http://mondial.cybergroup.top:8000/live/srzf/308wa/5282.ts
+#EXTINF:-1,Sky Sport 3 +1 HD
+http://mondial.cybergroup.top:8000/live/srzf/308wa/10580.ts
+#EXTINF:-1,Sky Sport F1 HD
+http://mondial.cybergroup.top:8000/live/srzf/308wa/88.ts
+#EXTINF:-1,Sky Sport F1 SD
+http://mondial.cybergroup.top:8000/live/srzf/308wa/5284.ts
+#EXTINF:-1,Sky Sport F1 +1 HD
+http://mondial.cybergroup.top:8000/live/srzf/308wa/10583.ts
+#EXTINF:-1,Sky Sport MotoGP HD
+http://mondial.cybergroup.top:8000/live/srzf/308wa/87.ts
+#EXTINF:-1,Sky Sport Moto GP SD
+http://mondial.cybergroup.top:8000/live/srzf/308wa/5283.ts
+#EXTINF:-1,Sky Sport MotoGP +1 HD
+http://mondial.cybergroup.top:8000/live/srzf/308wa/10584.ts
+#EXTINF:-1,Sky Auto Moto TV
+http://mondial.cybergroup.top:8000/live/srzf/308wa/10111.ts
+#EXTINF:-1,Sky Sport Mix
+http://mondial.cybergroup.top:8000/live/srzf/308wa/9994.ts
+#EXTINF:-1,Sky Fight Network
+http://mondial.cybergroup.top:8000/live/srzf/308wa/9998.ts
+#EXTINF:-1,Bike Channel
+http://mondial.cybergroup.top:8000/live/srzf/308wa/8713.ts
+#EXTINF:-1,Rai Sport HD
+http://mondial.cybergroup.top:8000/live/srzf/308wa/2137.ts
+#EXTINF:-1,Rai Sport plus HD
+http://mondial.cybergroup.top:8000/live/srzf/308wa/39.ts
+#EXTINF:-1,Super Tennis
+http://mondial.cybergroup.top:8000/live/srzf/308wa/40.ts
+#EXTINF:-1,Sport Italia
+http://mondial.cybergroup.top:8000/live/srzf/308wa/29.ts
+#EXTINF:-1,Class Horse TV
+http://mondial.cybergroup.top:8000/live/srzf/308wa/5220.ts
+#EXTINF:-1,Eurosport 1 HD
+http://mondial.cybergroup.top:8000/live/srzf/308wa/71.ts
+#EXTINF:-1,Eurosport 2
+http://mondial.cybergroup.top:8000/live/srzf/308wa/72.ts
+#EXTINF:-1,Fox Sport HD
+http://mondial.cybergroup.top:8000/live/srzf/308wa/70.ts
+#EXTINF:-1,Fox Sport +1 HD
+http://mondial.cybergroup.top:8000/live/srzf/308wa/10581.ts
+#EXTINF:-1,Fox Sport Plus HD
+http://mondial.cybergroup.top:8000/live/srzf/308wa/8669.ts
+#EXTINF:-1,Fox Sport Plus +1 HD
+http://mondial.cybergroup.top:8000/live/srzf/308wa/10582.ts
+#EXTINF:-1,NBA TV
+http://mondial.cybergroup.top:8000/live/srzf/308wa/21387.ts
+#EXTINF:-1,WWE USA
+http://mondial.cybergroup.top:8000/live/srzf/308wa/21386.ts
+#EXTINF:-1,===== SKY CALCIO =====
+http://mondial.cybergroup.top:8000/live/srzf/308wa/131.ts
+#EXTINF:-1,Sky Info Calcio
+http://mondial.cybergroup.top:8000/live/srzf/308wa/23365.ts
+#EXTINF:-1,Sky Supercalcio FHD
+http://mondial.cybergroup.top:8000/live/srzf/308wa/21066.ts
+#EXTINF:-1,Sky Supercalcio HD
+http://mondial.cybergroup.top:8000/live/srzf/308wa/80.ts
+#EXTINF:-1,Sky Supercalcio SD
+http://mondial.cybergroup.top:8000/live/srzf/308wa/5223.ts
+#EXTINF:-1,Sky Calcio 1 FHD
+http://mondial.cybergroup.top:8000/live/srzf/308wa/12645.ts
+#EXTINF:-1,Sky Calcio 1 HD
+http://mondial.cybergroup.top:8000/live/srzf/308wa/89.ts
+#EXTINF:-1,Sky Calcio 2 HD
+http://mondial.cybergroup.top:8000/live/srzf/308wa/90.ts
+#EXTINF:-1,Sky Calcio 3 HD
+http://mondial.cybergroup.top:8000/live/srzf/308wa/91.ts
+#EXTINF:-1,Sky Calcio 4 HD
+http://mondial.cybergroup.top:8000/live/srzf/308wa/92.ts
+#EXTINF:-1,Sky Calcio 5 HD
+http://mondial.cybergroup.top:8000/live/srzf/308wa/2122.ts
+#EXTINF:-1,Sky Calcio 6 HD
+http://mondial.cybergroup.top:8000/live/srzf/308wa/2123.ts
+#EXTINF:-1,Sky Calcio 7 HD
+http://mondial.cybergroup.top:8000/live/srzf/308wa/5141.ts
+#EXTINF:-1,Sky Calcio 8 HD
+http://mondial.cybergroup.top:8000/live/srzf/308wa/5142.ts
+#EXTINF:-1,Sky Calcio 9 HD
+http://mondial.cybergroup.top:8000/live/srzf/308wa/16756.ts
+#EXTINF:-1,Sky Calcio 10 HD
+http://mondial.cybergroup.top:8000/live/srzf/308wa/16757.ts
+#EXTINF:-1,Juventus Channel
+http://mondial.cybergroup.top:8000/live/srzf/308wa/4490.ts
+#EXTINF:-1,Inter Channel
+http://mondial.cybergroup.top:8000/live/srzf/308wa/5366.ts
+#EXTINF:-1,Milan Channel
+http://mondial.cybergroup.top:8000/live/srzf/308wa/5368.ts
+#EXTINF:-1,Roma Channel
+http://mondial.cybergroup.top:8000/live/srzf/308wa/5367.ts
+#EXTINF:-1,Lazio Channel
+http://mondial.cybergroup.top:8000/live/srzf/308wa/10625.ts
+#EXTINF:-1,Torino Channel
+http://mondial.cybergroup.top:8000/live/srzf/308wa/21185.ts
+#EXTINF:-1,Top Calcio 24
+http://mondial.cybergroup.top:8000/live/srzf/308wa/21186.ts
+#EXTINF:-1,===== LEGA PRO =====
+http://mondial.cybergroup.top:8000/live/srzf/308wa/10690.ts
+#EXTINF:-1,*-*-* SERIE C - Attivo Durante Gli Eventi *-*-*
+http://mondial.cybergroup.top:8000/live/srzf/308wa/23835.ts
+#EXTINF:-1,SERIE C  DIRETTA 1
+http://mondial.cybergroup.top:8000/live/srzf/308wa/23836.ts
+#EXTINF:-1,SERIE C  DIRETTA 2
+http://mondial.cybergroup.top:8000/live/srzf/308wa/23837.ts
+#EXTINF:-1,SERIE C  DIRETTA 3
+http://mondial.cybergroup.top:8000/live/srzf/308wa/23838.ts
+#EXTINF:-1,SERIE C  DIRETTA 4
+http://mondial.cybergroup.top:8000/live/srzf/308wa/23839.ts
+#EXTINF:-1,SERIE C  DIRETTA 5
+http://mondial.cybergroup.top:8000/live/srzf/308wa/23840.ts
+#EXTINF:-1,SERIE C  DIRETTA 6
+http://mondial.cybergroup.top:8000/live/srzf/308wa/23841.ts
+#EXTINF:-1,SERIE C  DIRETTA 7
+http://mondial.cybergroup.top:8000/live/srzf/308wa/23842.ts
+#EXTINF:-1,SERIE C  DIRETTA 8
+http://mondial.cybergroup.top:8000/live/srzf/308wa/23843.ts
+#EXTINF:-1,SERIE C  DIRETTA 9
+http://mondial.cybergroup.top:8000/live/srzf/308wa/23844.ts
+#EXTINF:-1,SERIE C  DIRETTA 10
+http://mondial.cybergroup.top:8000/live/srzf/308wa/23845.ts
+#EXTINF:-1,*-*-* VOLLEY SUPERLEGA & A2 *-*-*
+http://mondial.cybergroup.top:8000/live/srzf/308wa/23464.ts
+#EXTINF:-1,VOLLEY:DIRETTA 1
+http://mondial.cybergroup.top:8000/live/srzf/308wa/23463.ts
+#EXTINF:-1,VOLLEY:DIRETTA 2
+http://mondial.cybergroup.top:8000/live/srzf/308wa/23462.ts
+#EXTINF:-1,VOLLEY:DIRETTA 3
+http://mondial.cybergroup.top:8000/live/srzf/308wa/23461.ts
+#EXTINF:-1,VOLLEY:DIRETTA 4
+http://mondial.cybergroup.top:8000/live/srzf/308wa/23460.ts
+#EXTINF:-1,VOLLEY:DIRETTA 5
+http://mondial.cybergroup.top:8000/live/srzf/308wa/23459.ts
+#EXTINF:-1,VOLLEY:DIRETTA 6
+http://mondial.cybergroup.top:8000/live/srzf/308wa/23458.ts
+#EXTINF:-1,VOLLEY:DIRETTA 7
+http://mondial.cybergroup.top:8000/live/srzf/308wa/23457.ts
+#EXTINF:-1,VOLLEY:DIRETTA 8
+http://mondial.cybergroup.top:8000/live/srzf/308wa/23456.ts
+#EXTINF:-1,VOLLEY:DIRETTA 9
+http://mondial.cybergroup.top:8000/live/srzf/308wa/23455.ts
+#EXTINF:-1,VOLLEY:DIRETTA 10
+http://mondial.cybergroup.top:8000/live/srzf/308wa/23454.ts
+#EXTINF:-1,===== PRIMAFILA LIVE =====
+http://mondial.cybergroup.top:8000/live/srzf/308wa/9759.ts
+#EXTINF:-1,*-*-* Vetrina Primafila Live *-*-*
+http://mondial.cybergroup.top:8000/live/srzf/308wa/12537.ts
+#EXTINF:-1,PrimaFila 1 Live
+http://mondial.cybergroup.top:8000/live/srzf/308wa/10171.ts
+#EXTINF:-1,PrimaFila 2 Live
+http://mondial.cybergroup.top:8000/live/srzf/308wa/10182.ts
+#EXTINF:-1,PrimaFila 3 Live
+http://mondial.cybergroup.top:8000/live/srzf/308wa/10183.ts
+#EXTINF:-1,PrimaFila 4 Live
+http://mondial.cybergroup.top:8000/live/srzf/308wa/10184.ts
+#EXTINF:-1,PrimaFila 5 Live
+http://mondial.cybergroup.top:8000/live/srzf/308wa/10185.ts
+#EXTINF:-1,PrimaFila 6 Live
+http://mondial.cybergroup.top:8000/live/srzf/308wa/10186.ts
+#EXTINF:-1,PrimaFila 7 Live
+http://mondial.cybergroup.top:8000/live/srzf/308wa/10187.ts
+#EXTINF:-1,PrimaFila 8 Live
+http://mondial.cybergroup.top:8000/live/srzf/308wa/10188.ts
+#EXTINF:-1,PrimaFila 9 Live
+http://mondial.cybergroup.top:8000/live/srzf/308wa/10189.ts
+#EXTINF:-1,Primafila 10 Live
+http://mondial.cybergroup.top:8000/live/srzf/308wa/10172.ts
+#EXTINF:-1,PrimaFila 11 Live
+http://mondial.cybergroup.top:8000/live/srzf/308wa/10173.ts
+#EXTINF:-1,PrimaFila 12 Live
+http://mondial.cybergroup.top:8000/live/srzf/308wa/10174.ts
+#EXTINF:-1,PrimaFila 13 Live
+http://mondial.cybergroup.top:8000/live/srzf/308wa/10175.ts
+#EXTINF:-1,PrimaFila 14 Live
+http://mondial.cybergroup.top:8000/live/srzf/308wa/10176.ts
+#EXTINF:-1,PrimaFila 15 Live
+http://mondial.cybergroup.top:8000/live/srzf/308wa/10177.ts
+#EXTINF:-1,PrimaFila 16 Live
+http://mondial.cybergroup.top:8000/live/srzf/308wa/10178.ts
+#EXTINF:-1,PrimaFila 17 Live
+http://mondial.cybergroup.top:8000/live/srzf/308wa/10179.ts
+#EXTINF:-1,PrimaFila 18 Live
+http://mondial.cybergroup.top:8000/live/srzf/308wa/10180.ts
+#EXTINF:-1,PrimaFila 19 Live
+http://mondial.cybergroup.top:8000/live/srzf/308wa/10181.ts
+#EXTINF:-1,===== PREMIUM CINEMA =====
+http://mondial.cybergroup.top:8000/live/srzf/308wa/93.ts
+#EXTINF:-1,Premium Cinema HD
+http://mondial.cybergroup.top:8000/live/srzf/308wa/94.ts
+#EXTINF:-1,Premium Cinema +1 HD
+http://mondial.cybergroup.top:8000/live/srzf/308wa/10609.ts
+#EXTINF:-1,Premium Cinema +24
+http://mondial.cybergroup.top:8000/live/srzf/308wa/97.ts
+#EXTINF:-1,Premium Cinema 2 HD
+http://mondial.cybergroup.top:8000/live/srzf/308wa/95.ts
+#EXTINF:-1,Premium Cinema 2 +1 HD
+http://mondial.cybergroup.top:8000/live/srzf/308wa/10610.ts
+#EXTINF:-1,Premium Cinema 2 +24
+http://mondial.cybergroup.top:8000/live/srzf/308wa/96.ts
+#EXTINF:-1,Premium Cinema Emotion
+http://mondial.cybergroup.top:8000/live/srzf/308wa/101.ts
+#EXTINF:-1,Premium Cinema Emotion +1
+http://mondial.cybergroup.top:8000/live/srzf/308wa/10613.ts
+#EXTINF:-1,Premium Cinema Comedy
+http://mondial.cybergroup.top:8000/live/srzf/308wa/98.ts
+#EXTINF:-1,Premium Cinema Comedy +1
+http://mondial.cybergroup.top:8000/live/srzf/308wa/10611.ts
+#EXTINF:-1,Premium Cinema Energy HD
+http://mondial.cybergroup.top:8000/live/srzf/308wa/8672.ts
+#EXTINF:-1,Premium Cinema Energy +1 HD
+http://mondial.cybergroup.top:8000/live/srzf/308wa/10616.ts
+#EXTINF:-1,Premium Cinema Energy + 24
+http://mondial.cybergroup.top:8000/live/srzf/308wa/8670.ts
+#EXTINF:-1,Paramount Channel HD
+http://mondial.cybergroup.top:8000/live/srzf/308wa/5143.ts
+#EXTINF:-1,Premium Action HD
+http://mondial.cybergroup.top:8000/live/srzf/308wa/105.ts
+#EXTINF:-1,Premium Action +1 HD
+http://mondial.cybergroup.top:8000/live/srzf/308wa/10608.ts
+#EXTINF:-1,Premium Action +24
+http://mondial.cybergroup.top:8000/live/srzf/308wa/104.ts
+#EXTINF:-1,Premium Crime HD
+http://mondial.cybergroup.top:8000/live/srzf/308wa/102.ts
+#EXTINF:-1,Premium Crime +1 HD
+http://mondial.cybergroup.top:8000/live/srzf/308wa/10612.ts
+#EXTINF:-1,Premium Crime +24
+http://mondial.cybergroup.top:8000/live/srzf/308wa/103.ts
+#EXTINF:-1,Premium Joy
+http://mondial.cybergroup.top:8000/live/srzf/308wa/5144.ts
+#EXTINF:-1,Premium Joy +1
+http://mondial.cybergroup.top:8000/live/srzf/308wa/10614.ts
+#EXTINF:-1,Premium Joy +24
+http://mondial.cybergroup.top:8000/live/srzf/308wa/107.ts
+#EXTINF:-1,Premium Stories
+http://mondial.cybergroup.top:8000/live/srzf/308wa/106.ts
+#EXTINF:-1,Premium Stories +1
+http://mondial.cybergroup.top:8000/live/srzf/308wa/10615.ts
+#EXTINF:-1,Premium Studio Universal
+http://mondial.cybergroup.top:8000/live/srzf/308wa/99.ts
+#EXTINF:-1,CINE SONY
+http://mondial.cybergroup.top:8000/live/srzf/308wa/21385.ts
+#EXTINF:-1,===== PREMIUM SPORT =====
+http://mondial.cybergroup.top:8000/live/srzf/308wa/8086.ts
+#EXTINF:-1,Premium Sport 1
+http://mondial.cybergroup.top:8000/live/srzf/308wa/8240.ts
+#EXTINF:-1,Premium Sport 1 HD
+http://mondial.cybergroup.top:8000/live/srzf/308wa/8239.ts
+#EXTINF:-1,Premium Sport 2
+http://mondial.cybergroup.top:8000/live/srzf/308wa/111.ts
+#EXTINF:-1,Premium Sport 2 HD
+http://mondial.cybergroup.top:8000/live/srzf/308wa/8241.ts
+#EXTINF:-1,===== PREMIUM CALCIO =====
+http://mondial.cybergroup.top:8000/live/srzf/308wa/134.ts
+#EXTINF:-1,Premium Calcio 1 HD
+http://mondial.cybergroup.top:8000/live/srzf/308wa/114.ts
+#EXTINF:-1,Premium Calcio 1
+http://mondial.cybergroup.top:8000/live/srzf/308wa/112.ts
+#EXTINF:-1,Premium Calcio 2
+http://mondial.cybergroup.top:8000/live/srzf/308wa/115.ts
+#EXTINF:-1,Premium Calcio 3
+http://mondial.cybergroup.top:8000/live/srzf/308wa/116.ts
+#EXTINF:-1,Premium calcio 4
+http://mondial.cybergroup.top:8000/live/srzf/308wa/117.ts
+#EXTINF:-1,Premium Calcio 5
+http://mondial.cybergroup.top:8000/live/srzf/308wa/118.ts
+#EXTINF:-1,Premium Calcio 6
+http://mondial.cybergroup.top:8000/live/srzf/308wa/2311.ts
+#EXTINF:-1,Premium Calcio Napoli Auriemma
+http://mondial.cybergroup.top:8000/live/srzf/308wa/9995.ts
+#EXTINF:-1,===== NEWS 24 =====
+http://mondial.cybergroup.top:8000/live/srzf/308wa/310.ts
+#EXTINF:-1,Rai News 24 HD
+http://mondial.cybergroup.top:8000/live/srzf/308wa/10621.ts
+#EXTINF:-1,Rai News 24
+http://mondial.cybergroup.top:8000/live/srzf/308wa/36.ts
+#EXTINF:-1,EURONEWS
+http://mondial.cybergroup.top:8000/live/srzf/308wa/304.ts
+#EXTINF:-1,Sky TG 24
+http://mondial.cybergroup.top:8000/live/srzf/308wa/27.ts
+#EXTINF:-1,Tg Com 24
+http://mondial.cybergroup.top:8000/live/srzf/308wa/302.ts
+#EXTINF:-1,TG NORBA 24
+http://mondial.cybergroup.top:8000/live/srzf/308wa/303.ts
+#EXTINF:-1,Class CNBC
+http://mondial.cybergroup.top:8000/live/srzf/308wa/2310.ts
+#EXTINF:-1,Nuvolari
+http://mondial.cybergroup.top:8000/live/srzf/308wa/2139.ts
+#EXTINF:-1,Il Meteo.it Oggi
+http://mondial.cybergroup.top:8000/live/srzf/308wa/415.ts
+#EXTINF:-1,Il Meteo.it Domani
+http://mondial.cybergroup.top:8000/live/srzf/308wa/416.ts
+#EXTINF:-1,Il Meteo.it Dopodomani
+http://mondial.cybergroup.top:8000/live/srzf/308wa/417.ts
+#EXTINF:-1,===== MUSICA =====
+http://mondial.cybergroup.top:8000/live/srzf/308wa/311.ts
+#EXTINF:-1,KissKiss Napoli TV
+http://mondial.cybergroup.top:8000/live/srzf/308wa/409.ts
+#EXTINF:-1,KissKiss Italia
+http://mondial.cybergroup.top:8000/live/srzf/308wa/6599.ts
+#EXTINF:-1,kissKiss TV
+http://mondial.cybergroup.top:8000/live/srzf/308wa/408.ts
+#EXTINF:-1,MTV Brand New
+http://mondial.cybergroup.top:8000/live/srzf/308wa/6833.ts
+#EXTINF:-1,MTV Live HD
+http://mondial.cybergroup.top:8000/live/srzf/308wa/6832.ts
+#EXTINF:-1,MTV Rocks
+http://mondial.cybergroup.top:8000/live/srzf/308wa/6837.ts
+#EXTINF:-1,Radio Capital TV
+http://mondial.cybergroup.top:8000/live/srzf/308wa/2304.ts
+#EXTINF:-1,Radio Ibiza
+http://mondial.cybergroup.top:8000/live/srzf/308wa/410.ts
+#EXTINF:-1,RADIO VIRGIN TV
+http://mondial.cybergroup.top:8000/live/srzf/308wa/407.ts
+#EXTINF:-1,RTL 102.5
+http://mondial.cybergroup.top:8000/live/srzf/308wa/307.ts
+#EXTINF:-1,RADIO MONTE CARLO TV
+http://mondial.cybergroup.top:8000/live/srzf/308wa/305.ts
+#EXTINF:-1,RADIO 105 TV
+http://mondial.cybergroup.top:8000/live/srzf/308wa/306.ts
+#EXTINF:-1,M2O TV
+http://mondial.cybergroup.top:8000/live/srzf/308wa/308.ts
+#EXTINF:-1,Vevo TV  HD
+http://mondial.cybergroup.top:8000/live/srzf/308wa/2301.ts
+#EXTINF:-1,===== REGIONALI =====
+http://mondial.cybergroup.top:8000/live/srzf/308wa/21480.ts
+#EXTINF:-1,Tele Vomero
+http://mondial.cybergroup.top:8000/live/srzf/308wa/21479.ts
+#EXTINF:-1,Canale 21
+http://mondial.cybergroup.top:8000/live/srzf/308wa/21488.ts
+#EXTINF:-1,===== Prima Visione =====
+http://mondial.cybergroup.top:8000/movie/srzf/308wa/10397.mp4
+#EXTINF:-1,PrimaVisione - The Disaster Artist
+http://mondial.cybergroup.top:8000/movie/srzf/308wa/25997.mkv
+#EXTINF:-1,PrimaVisione - Il Filo Nascosto
+http://mondial.cybergroup.top:8000/movie/srzf/308wa/25995.mkv
+#EXTINF:-1,PrimaVisione - Red Sparrow
+http://mondial.cybergroup.top:8000/movie/srzf/308wa/25996.mkv
+#EXTINF:-1,PrimaVisione - La Vedova Winchester
+http://mondial.cybergroup.top:8000/movie/srzf/308wa/24770.mkv
+#EXTINF:-1,PrimaVisione - Final Portrait L'Arte Di Essere Amici
+http://mondial.cybergroup.top:8000/movie/srzf/308wa/24771.mkv
+#EXTINF:-1,PrimaVisione - San Valentino Stories
+http://mondial.cybergroup.top:8000/movie/srzf/308wa/24236.mkv
+#EXTINF:-1,PrimaVisione - Black Panther
+http://mondial.cybergroup.top:8000/movie/srzf/308wa/24231.mkv
+#EXTINF:-1,PrimaVisione - L'Uomo Sul Treno
+http://mondial.cybergroup.top:8000/movie/srzf/308wa/24233.mkv
+#EXTINF:-1,PrimaVisione - La Forma Dell'Acqua
+http://mondial.cybergroup.top:8000/movie/srzf/308wa/24232.mkv
+#EXTINF:-1,PrimaVisione - Maze Runner La Rivelazione
+http://mondial.cybergroup.top:8000/movie/srzf/308wa/24234.mkv
+#EXTINF:-1,PrimaVisione - Sono Tornato
+http://mondial.cybergroup.top:8000/movie/srzf/308wa/24235.mkv
+#EXTINF:-1,PrimaVisione - 50 Sfumature di Rosso
+http://mondial.cybergroup.top:8000/movie/srzf/308wa/24220.mkv
+#EXTINF:-1,PrimaVisione - Downsizing Vivere Alla Grande
+http://mondial.cybergroup.top:8000/movie/srzf/308wa/23555.mkv
+#EXTINF:-1,PrimaVisione - Slumber Il Demone Del Sonno
+http://mondial.cybergroup.top:8000/movie/srzf/308wa/23554.mkv
+#EXTINF:-1,PrimaVisione - Made In Italy
+http://mondial.cybergroup.top:8000/movie/srzf/308wa/23541.mkv
+#EXTINF:-1,PrimaVisione - Insidious 4 L'Ultima Chiave
+http://mondial.cybergroup.top:8000/movie/srzf/308wa/23543.mkv
+#EXTINF:-1,PrimaVisione - Il Vegetale
+http://mondial.cybergroup.top:8000/movie/srzf/308wa/23540.mkv
+#EXTINF:-1,PrimaVisione - Il Ragazzo Invisibile Seconda Generazione
+http://mondial.cybergroup.top:8000/movie/srzf/308wa/23538.mkv
+#EXTINF:-1,PrimaVisione - Finalmente Sposi
+http://mondial.cybergroup.top:8000/movie/srzf/308wa/23542.mkv
+#EXTINF:-1,PrimaVisione - Bigfoot Junior
+http://mondial.cybergroup.top:8000/movie/srzf/308wa/23539.mkv
+#EXTINF:-1,PrimaVisione - L'ora più buia
+http://mondial.cybergroup.top:8000/movie/srzf/308wa/23525.mkv
+#EXTINF:-1,PrimaVisione - The Midnight Man
+http://mondial.cybergroup.top:8000/movie/srzf/308wa/23524.mkv
+#EXTINF:-1,PrimaVisione - Tre Manifesti a Ebbing Missouri
+http://mondial.cybergroup.top:8000/movie/srzf/308wa/23522.mkv
+#EXTINF:-1,PrimaVisione - Tutti I Soldi Del Mondo
+http://mondial.cybergroup.top:8000/movie/srzf/308wa/23523.mkv
+#EXTINF:-1,PrimaVisione - Jumanji - Benvenuti Nella Giungla
+http://mondial.cybergroup.top:8000/movie/srzf/308wa/23452.mkv
+#EXTINF:-1,PrimaVisione - Vi Presento Christopher Robin
+http://mondial.cybergroup.top:8000/movie/srzf/308wa/23451.avi
+#EXTINF:-1,PrimaVisione - Benedetta Follia
+http://mondial.cybergroup.top:8000/movie/srzf/308wa/23450.mkv
+#EXTINF:-1,PrimaVisione - La Ruota Delle Meraviglie
+http://mondial.cybergroup.top:8000/movie/srzf/308wa/23447.mkv
+#EXTINF:-1,PrimaVisione - Renegades Commando D Assalto
+http://mondial.cybergroup.top:8000/movie/srzf/308wa/23448.avi
+#EXTINF:-1,PrimaVisione - The Greatest Showman
+http://mondial.cybergroup.top:8000/movie/srzf/308wa/23449.avi
+#EXTINF:-1,PrimaVisione - Coco
+http://mondial.cybergroup.top:8000/movie/srzf/308wa/23357.avi
+#EXTINF:-1,PrimaVisione - Frozen Le Avventure Di Olaf
+http://mondial.cybergroup.top:8000/movie/srzf/308wa/23358.avi
+#EXTINF:-1,PrimaVisione - Napoli Velata
+http://mondial.cybergroup.top:8000/movie/srzf/308wa/23356.mkv
+#EXTINF:-1,PrimaVisione - Ogni Tuo Respiro
+http://mondial.cybergroup.top:8000/movie/srzf/308wa/23359.avi
+#EXTINF:-1,PrimaVisione - Poveri ma Ricchissimi
+http://mondial.cybergroup.top:8000/movie/srzf/308wa/23344.mp4
+#EXTINF:-1,PrimaVisione - Caccia al tesoro
+http://mondial.cybergroup.top:8000/movie/srzf/308wa/23354.mkv
+#EXTINF:-1,PrimaVisione - Napoletano Made in China
+http://mondial.cybergroup.top:8000/movie/srzf/308wa/23350.mkv
+#EXTINF:-1,PrimaVisione - Natale Da Chef
+http://mondial.cybergroup.top:8000/movie/srzf/308wa/23355.mkv
+#EXTINF:-1,PrimaVisione - Ricchi € Contenti
+http://mondial.cybergroup.top:8000/movie/srzf/308wa/23352.mkv
+#EXTINF:-1,PrimaVisione - Super Vacanze Di Natale
+http://mondial.cybergroup.top:8000/movie/srzf/308wa/23353.mkv
+#EXTINF:-1,PrimaVisione - Smetto quando voglio ad honorem
+http://mondial.cybergroup.top:8000/movie/srzf/308wa/23345.mp4
+#EXTINF:-1,PrimaVisione - Wonder
+http://mondial.cybergroup.top:8000/movie/srzf/308wa/23346.mp4
+#EXTINF:-1,PrimaVisione - Rachel
+http://mondial.cybergroup.top:8000/movie/srzf/308wa/23347.mp4
+#EXTINF:-1,PrimaVisione - Goon Last of the Enforcers
+http://mondial.cybergroup.top:8000/movie/srzf/308wa/23348.mp4
+#EXTINF:-1,PrimaVisione - Addio Fottuti Musi Verdi
+http://mondial.cybergroup.top:8000/movie/srzf/308wa/23349.mkv
+#EXTINF:-1,PrimaVisione - La Battaglia Dei Sessi
+http://mondial.cybergroup.top:8000/movie/srzf/308wa/23351.mkv
+#EXTINF:-1,PrimaVisione - Appuntamento al parco
+http://mondial.cybergroup.top:8000/movie/srzf/308wa/23337.mp4
+#EXTINF:-1,PrimaVisione - La lettera di fuoco
+http://mondial.cybergroup.top:8000/movie/srzf/308wa/23338.mp4
+#EXTINF:-1,PrimaVisione - La mia famiglia a soqquadro
+http://mondial.cybergroup.top:8000/movie/srzf/308wa/23336.mp4
+#EXTINF:-1,PrimaVisione - Taranta on the road
+http://mondial.cybergroup.top:8000/movie/srzf/308wa/23335.mp4
+#EXTINF:-1,PrimaVisione - DaddyS Home 2
+http://mondial.cybergroup.top:8000/movie/srzf/308wa/23333.mkv
+#EXTINF:-1,PrimaVisione - A Wish For Christmas
+http://mondial.cybergroup.top:8000/movie/srzf/308wa/22777.mp4
+#EXTINF:-1,PrimaVisione - Amitiville Il Risveglio
+http://mondial.cybergroup.top:8000/movie/srzf/308wa/22772.mp4
+#EXTINF:-1,PrimaVisione - Creep 2
+http://mondial.cybergroup.top:8000/movie/srzf/308wa/22773.mp4
+#EXTINF:-1,PrimaVisione - Ferdinand
+http://mondial.cybergroup.top:8000/movie/srzf/308wa/22771.mp4
+#EXTINF:-1,PrimaVisione - Miss Sloane Giochi di Potere
+http://mondial.cybergroup.top:8000/movie/srzf/308wa/22774.mp4
+#EXTINF:-1,PrimaVisione - Non C E Piu Religione
+http://mondial.cybergroup.top:8000/movie/srzf/308wa/22776.mp4
+#EXTINF:-1,PrimaVisione - The Follower - Un Ammiratrice Pericolosa
+http://mondial.cybergroup.top:8000/movie/srzf/308wa/22775.mp4
+#EXTINF:-1,PrimaVisione - Star Wars Gli Ultimi Jedi
+http://mondial.cybergroup.top:8000/movie/srzf/308wa/22761.mkv
+#EXTINF:-1,PrimaVisione - Seven Sisters
+http://mondial.cybergroup.top:8000/movie/srzf/308wa/22758.avi
+#EXTINF:-1,PrimaVisione - Suburbicon
+http://mondial.cybergroup.top:8000/movie/srzf/308wa/22759.avi
+#EXTINF:-1,PrimaVisione - American Assassin
+http://mondial.cybergroup.top:8000/movie/srzf/308wa/22762.mkv
+#EXTINF:-1,PrimaVisione - Assassinio Sull Orient Express
+http://mondial.cybergroup.top:8000/movie/srzf/308wa/22727.mkv
+#EXTINF:-1,PrimaVisione - Paddington 2
+http://mondial.cybergroup.top:8000/movie/srzf/308wa/22728.avi
+#EXTINF:-1,PrimaVisione - Flatliners Linea Mortale
+http://mondial.cybergroup.top:8000/movie/srzf/308wa/22699.mkv
+#EXTINF:-1,PrimaVisione - Leatherface
+http://mondial.cybergroup.top:8000/movie/srzf/308wa/22700.mkv
+#EXTINF:-1,PrimaVisione - Detroit
+http://mondial.cybergroup.top:8000/movie/srzf/308wa/22696.mkv
+#EXTINF:-1,PrimaVisione - Il Domani Tra Di Noi
+http://mondial.cybergroup.top:8000/movie/srzf/308wa/22695.mkv
+#EXTINF:-1,PrimaVisione - Nut Job 2 Tutto Molto Divertente
+http://mondial.cybergroup.top:8000/movie/srzf/308wa/22690.mkv
+#EXTINF:-1,PrimaVisione - Il Libro Di Henry
+http://mondial.cybergroup.top:8000/movie/srzf/308wa/22689.mkv
+#EXTINF:-1,PrimaVisione - Borg McEnroe
+http://mondial.cybergroup.top:8000/movie/srzf/308wa/21682.mkv
+#EXTINF:-1,PrimaVisione - Kingsman Il Cerchio D Oro
+http://mondial.cybergroup.top:8000/movie/srzf/308wa/21683.mkv
+#EXTINF:-1,PrimaVisione - Justice League
+http://mondial.cybergroup.top:8000/movie/srzf/308wa/21674.avi
+#EXTINF:-1,PrimaVisione - L'Uomo Di Neve
+http://mondial.cybergroup.top:8000/movie/srzf/308wa/21672.avi
+#EXTINF:-1,PrimaVisione - La Signora Dello Zoo Di Varsavia
+http://mondial.cybergroup.top:8000/movie/srzf/308wa/21673.mkv
+#EXTINF:-1,PrimaVisione - Auguri Per La Tua Morte
+http://mondial.cybergroup.top:8000/movie/srzf/308wa/21665.avi
+#EXTINF:-1,PrimaVisione - Geostorm
+http://mondial.cybergroup.top:8000/movie/srzf/308wa/21640.avi
+#EXTINF:-1,PrimaVisione - Gifted Il dono del talento
+http://mondial.cybergroup.top:8000/movie/srzf/308wa/21638.mkv
+#EXTINF:-1,PrimaVisione - Monster Family
+http://mondial.cybergroup.top:8000/movie/srzf/308wa/21636.mkv
+#EXTINF:-1,PrimaVisione - Nemesi
+http://mondial.cybergroup.top:8000/movie/srzf/308wa/21635.mkv
+#EXTINF:-1,PrimaVisione - Saw Legacy
+http://mondial.cybergroup.top:8000/movie/srzf/308wa/21639.avi
+#EXTINF:-1,PrimaVisione - Thor Ragnarok 2017
+http://mondial.cybergroup.top:8000/movie/srzf/308wa/21637.mkv
+#EXTINF:-1,PrimaVisione - IT
+http://mondial.cybergroup.top:8000/movie/srzf/308wa/21616.mkv
+#EXTINF:-1,PrimaVisione - Ammore e Malavita
+http://mondial.cybergroup.top:8000/movie/srzf/308wa/21592.mkv
+#EXTINF:-1,PrimaVisione - Blade Runner 2049
+http://mondial.cybergroup.top:8000/movie/srzf/308wa/21615.avi
+#EXTINF:-1,PrimaVisione - Jukai la Foresta Dei Suicidi
+http://mondial.cybergroup.top:8000/movie/srzf/308wa/21613.mkv
+#EXTINF:-1,PrimaVisione - Lego Ninjago
+http://mondial.cybergroup.top:8000/movie/srzf/308wa/21614.mkv
+#EXTINF:-1,PrimaVisione - Capitan Mutanda.
+http://mondial.cybergroup.top:8000/movie/srzf/308wa/21518.mkv
+#EXTINF:-1,PrimaVisione - Descendants 2
+http://mondial.cybergroup.top:8000/movie/srzf/308wa/21517.mkv
+#EXTINF:-1,PrimaVisione - Extortion
+http://mondial.cybergroup.top:8000/movie/srzf/308wa/21520.mkv
+#EXTINF:-1,PrimaVisione - Le Storie Di Paura Di Masha
+http://mondial.cybergroup.top:8000/movie/srzf/308wa/21519.mkv
+#EXTINF:-1,PrimaVisione - Aspettando il Re
+http://mondial.cybergroup.top:8000/movie/srzf/308wa/21485.mkv
+#EXTINF:-1,PrimaVisione - Emoji
+http://mondial.cybergroup.top:8000/movie/srzf/308wa/21486.mkv
+#EXTINF:-1,PrimaVisione - Il gioco di Gerald
+http://mondial.cybergroup.top:8000/movie/srzf/308wa/21484.mkv
+#EXTINF:-1,PrimaVisione - Le nostre anime di notte
+http://mondial.cybergroup.top:8000/movie/srzf/308wa/21483.mkv
+#EXTINF:-1,PrimaVisione - Valerian E La Citta Dei Mille Pianeti
+http://mondial.cybergroup.top:8000/movie/srzf/308wa/21481.mkv
+#EXTINF:-1,PrimaVisione - Cars 3
+http://mondial.cybergroup.top:8000/movie/srzf/308wa/21437.mkv
+#EXTINF:-1,PrimaVisione - Barry Seal Una Storia Americana
+http://mondial.cybergroup.top:8000/movie/srzf/308wa/21435.mkv
+#EXTINF:-1,PrimaVisione - Dead Again in Tombstone
+http://mondial.cybergroup.top:8000/movie/srzf/308wa/21434.mkv
+#EXTINF:-1,PrimaVisione - La Fratellanza
+http://mondial.cybergroup.top:8000/movie/srzf/308wa/21436.mkv
+#EXTINF:-1,PrimaVisione - Starship Troopers Attacco su Mars
+http://mondial.cybergroup.top:8000/movie/srzf/308wa/21430.mkv
+#EXTINF:-1,PrimaVisione - The Devils Candy
+http://mondial.cybergroup.top:8000/movie/srzf/308wa/21432.mkv
+#EXTINF:-1,PrimaVisione - Kiss and Cry
+http://mondial.cybergroup.top:8000/movie/srzf/308wa/21404.mkv
+#EXTINF:-1,PrimaVisione - Neve Nera
+http://mondial.cybergroup.top:8000/movie/srzf/308wa/21406.mkv
+#EXTINF:-1,PrimaVisione - S.W.A.T Sotto Assedio
+http://mondial.cybergroup.top:8000/movie/srzf/308wa/21405.mkv
+#EXTINF:-1,PrimaVisione - Shimmer And Shine Amiche Divine
+http://mondial.cybergroup.top:8000/movie/srzf/308wa/21407.mkv
+#EXTINF:-1,PrimaVisione - Tutto quello che vuoi
+http://mondial.cybergroup.top:8000/movie/srzf/308wa/21370.mkv
+#EXTINF:-1,PrimaVisione - Death Note
+http://mondial.cybergroup.top:8000/movie/srzf/308wa/21371.mkv
+#EXTINF:-1,PrimaVisione - Cattivissimo Me 3
+http://mondial.cybergroup.top:8000/movie/srzf/308wa/21349.mkv
+#EXTINF:-1,PrimaVisione - Batman e Harley Quinn
+http://mondial.cybergroup.top:8000/movie/srzf/308wa/21326.mkv
+#EXTINF:-1,PrimaVisione - Max 2 - Un eroe alla Casa Bianca
+http://mondial.cybergroup.top:8000/movie/srzf/308wa/21332.mkv
+#EXTINF:-1,PrimaVisione - Prega perche Piova
+http://mondial.cybergroup.top:8000/movie/srzf/308wa/21330.mkv
+#EXTINF:-1,PrimaVisione - Ricomincio da nudo
+http://mondial.cybergroup.top:8000/movie/srzf/308wa/21331.mkv
+#EXTINF:-1,PrimaVisione - Wish Upon
+http://mondial.cybergroup.top:8000/movie/srzf/308wa/21320.mkv
+#EXTINF:-1,PrimaVisione - USS Indianapolis
+http://mondial.cybergroup.top:8000/movie/srzf/308wa/16782.mkv
+#EXTINF:-1,PrimaVisione - Codice Criminale
+http://mondial.cybergroup.top:8000/movie/srzf/308wa/12579.mkv
+#EXTINF:-1,PrimaVisione - A Casa Nostra
+http://mondial.cybergroup.top:8000/movie/srzf/308wa/21303.mkv
+#EXTINF:-1,PrimaVisione - Il guardiano invisibile
+http://mondial.cybergroup.top:8000/movie/srzf/308wa/21300.mkv
+#EXTINF:-1,PrimaVisione - L Incredibile Jessica James
+http://mondial.cybergroup.top:8000/movie/srzf/308wa/21302.mkv
+#EXTINF:-1,PrimaVisione - Lasciati andare
+http://mondial.cybergroup.top:8000/movie/srzf/308wa/21305.mkv
+#EXTINF:-1,PrimaVisione - The Ottoman Lieutenant
+http://mondial.cybergroup.top:8000/movie/srzf/308wa/21304.mkv
+#EXTINF:-1,PrimaVisione - Bruno e Boots la piscina
+http://mondial.cybergroup.top:8000/movie/srzf/308wa/21301.mkv
+#EXTINF:-1,PrimaVisione - The Circle
+http://mondial.cybergroup.top:8000/movie/srzf/308wa/12587.mkv
+#EXTINF:-1,PrimaVisione - Famiglia All Improvviso Istruzioni Non Incluse
+http://mondial.cybergroup.top:8000/movie/srzf/308wa/12648.mkv
+#EXTINF:-1,PrimaVisione - Black Butterfly
+http://mondial.cybergroup.top:8000/movie/srzf/308wa/12649.mkv
+#EXTINF:-1,PrimaVisione - Cane Mangia Cane
+http://mondial.cybergroup.top:8000/movie/srzf/308wa/12653.mkv
+#EXTINF:-1,PrimaVisione - Amar
+http://mondial.cybergroup.top:8000/movie/srzf/308wa/21101.mkv
+#EXTINF:-1,PrimaVisione - La Tenerezza
+http://mondial.cybergroup.top:8000/movie/srzf/308wa/12578.mkv
+#EXTINF:-1,PrimaVisione - Piccoli Crimini Coniugali
+http://mondial.cybergroup.top:8000/movie/srzf/308wa/12582.mkv
+#EXTINF:-1,PrimaVisione - Personal Shopper
+http://mondial.cybergroup.top:8000/movie/srzf/308wa/12583.mkv
+#EXTINF:-1,PrimaVisione - Bedevil - Non Installarla
+http://mondial.cybergroup.top:8000/movie/srzf/308wa/12601.mkv
+#EXTINF:-1,PrimaVisione - Gomorroide
+http://mondial.cybergroup.top:8000/movie/srzf/308wa/12647.mkv
+#EXTINF:-1,PrimaVisione - Il Tuo Ultimo Sguardo
+http://mondial.cybergroup.top:8000/movie/srzf/308wa/12652.mkv
+#EXTINF:-1,PrimaVisione - Song To Song
+http://mondial.cybergroup.top:8000/movie/srzf/308wa/16773.mkv
+#EXTINF:-1,PrimaVisione - La Donna Piu Odiata D'America
+http://mondial.cybergroup.top:8000/movie/srzf/308wa/16776.mkv
+#EXTINF:-1,PrimaVisione - La Parrucchiera
+http://mondial.cybergroup.top:8000/movie/srzf/308wa/16779.mkv
+#EXTINF:-1,PrimaVisione - Planetarium
+http://mondial.cybergroup.top:8000/movie/srzf/308wa/20301.mkv
+#EXTINF:-1,PrimaVisione - Sette minuti dopo la mezzanotte
+http://mondial.cybergroup.top:8000/movie/srzf/308wa/21102.mkv
+#EXTINF:-1,PrimaVisione - 47 Metri
+http://mondial.cybergroup.top:8000/movie/srzf/308wa/21118.mkv
+#EXTINF:-1,===== Sky Primafila Vod =====
+http://mondial.cybergroup.top:8000/movie/srzf/308wa/335.mkv
+#EXTINF:-1,*-*-* Vetrina Primafila Vod *-*-*
+http://mondial.cybergroup.top:8000/movie/srzf/308wa/9983.mkv
+#EXTINF:-1,Primafila 1-2 Valerian E La Citta' Dei Mille Pianeti
+http://mondial.cybergroup.top:8000/movie/srzf/308wa/25984.mkv
+#EXTINF:-1,Primafila 3-4 It
+http://mondial.cybergroup.top:8000/movie/srzf/308wa/25985.mkv
+#EXTINF:-1,Primafila 5-6 Mistero A Crooked House
+http://mondial.cybergroup.top:8000/movie/srzf/308wa/25986.mkv
+#EXTINF:-1,Primafila 7-8 Geostorm
+http://mondial.cybergroup.top:8000/movie/srzf/308wa/25987.mkv
+#EXTINF:-1,Primafila 9-10 USS Indianapolis
+http://mondial.cybergroup.top:8000/movie/srzf/308wa/25988.mkv
+#EXTINF:-1,Primafila 11-12 L'Uomo Di Neve
+http://mondial.cybergroup.top:8000/movie/srzf/308wa/25989.mkv
+#EXTINF:-1,Primafila 13-14 Gifted Il Dono Del Talento
+http://mondial.cybergroup.top:8000/movie/srzf/308wa/25990.mkv
+#EXTINF:-1,Primafila 15 Cars 3
+http://mondial.cybergroup.top:8000/movie/srzf/308wa/25991.mkv
+#EXTINF:-1,Primafila 16 Non C'e' Campo
+http://mondial.cybergroup.top:8000/movie/srzf/308wa/25992.mkv
+#EXTINF:-1,Primafila 17 Terapia Di Coppia Per Amanti
+http://mondial.cybergroup.top:8000/movie/srzf/308wa/25993.mkv
+#EXTINF:-1,Primafila 18-19 Baby Driver
+http://mondial.cybergroup.top:8000/movie/srzf/308wa/25994.mkv
