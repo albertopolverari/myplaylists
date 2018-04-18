@@ -93,7 +93,7 @@ http://cld01ibi16.wz.tv2000.it/tv2000_alfa.m3u8
 http://fulltv.biz/script/grabber/janjuatv.m3u8?url=http%3A%2F%2Fwww.janjuaplayer.com%2Fhembedplayer%2Fla7d1a%2F3%2F620%2F380&ref=http%3A%2F%2Feasysite.one%2F
 
 #EXTINF:-1 tvg-id="" group-title="VARI" tvg-logo="http://fulltv.biz/img/loghi/realtime.png",RealTime
-http://fulltv.biz/script/grabber/janjuatv.m3u8?url=http%3A%2F%2Fwww.janjuaplayer.com%2Fhembedplayer%2Frealtimevvcc%2F3%2F620%2F380&ref=http%3A%2F%2Feasysite.one%2F
+http://fulltv.biz/script/grabber/janjuatv.m3u8?url=http://www.janjuaplayer.com/hembedplayer/realtimevvcc/3/620/380&ref=http://easysite.one/
 
 #EXTINF:-1 tvg-id="" group-title="MEDIASET" tvg-logo="http://imgr.video.mediaset.it/bin/615.$plit/C_2_channel_17_upImg.png",La5
 https://live2-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch04)/index.m3u8
