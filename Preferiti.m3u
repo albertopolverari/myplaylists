@@ -1,202 +1,223 @@
-#EXTM3U 
-#EXTVLCOPT--http-reconnect=true
+#EXTM3U
 #EXTINF:-1,Rai 1 HD
-http://192.168.0.158:8001/1:0:1:D49:1450:13E:820000:0:0:0:
+http://diamondhttps.dnsfor.me:15800/live/8d381883150d78e/a34239d0a920469/1637.ts
 #EXTINF:-1,Rai 2 HD
-http://192.168.0.158:8001/1:0:1:D4A:1450:13E:820000:0:0:0:
+http://diamondhttps.dnsfor.me:15800/live/8d381883150d78e/a34239d0a920469/1638.ts
 #EXTINF:-1,Rai 3 HD
-http://192.168.0.158:8001/1:0:1:D4B:1450:13E:820000:0:0:0:
-#EXTINF:-1,Rete 4
-http://192.168.0.158:8001/1:0:1:3:1770:110:820000:0:0:0:
-#EXTINF:-1,Canale 5
-http://192.168.0.158:8001/1:0:1:2:1770:110:820000:0:0:0:
-#EXTINF:-1,Italia 1
-http://192.168.0.158:8001/1:0:1:1:1770:110:820000:0:0:0:
-#EXTINF:-1,LA7
-http://192.168.0.158:8001/1:0:1:47:1770:110:820000:0:0:0:
-#EXTINF:-1,TV8
-http://192.168.0.158:8001/1:0:1:E3F:16A8:FBFF:820000:0:0:0:
-#EXTINF:-1,Nove HD
-http://192.168.0.158:8001/1:0:1:2FC3:2DB4:13E:820000:0:0:0:
-#EXTINF:-1,cielo
-http://192.168.0.158:8001/1:0:1:2B66:19C8:FBFF:820000:0:0:0:
+http://diamondhttps.dnsfor.me:15800/live/8d381883150d78e/a34239d0a920469/1639.ts
+#EXTINF:-1,Rete 4 HD
+http://diamondhttps.dnsfor.me:15800/live/8d381883150d78e/a34239d0a920469/1654.ts
+#EXTINF:-1,Canale 5 HD
+http://diamondhttps.dnsfor.me:15800/live/8d381883150d78e/a34239d0a920469/1623.ts
+#EXTINF:-1,Italia 1 HD
+http://diamondhttps.dnsfor.me:15800/live/8d381883150d78e/a34239d0a920469/1629.ts
+#EXTINF:-1,Italia 2
+http://diamondhttps.dnsfor.me:15800/live/8d381883150d78e/a34239d0a920469/1630.ts
+#EXTINF:-1,La 7 HD
+http://diamondhttps.dnsfor.me:15800/live/8d381883150d78e/a34239d0a920469/1632.ts
+#EXTINF:-1,La 7d HD
+http://diamondhttps.dnsfor.me:15800/live/8d381883150d78e/a34239d0a920469/1633.ts
 #EXTINF:-1,RSI LA 1 HD
-http://192.168.0.158:8001/1:0:19:36E3:6A4:13E:820000:0:0:0:
+http://diamondhttps.dnsfor.me:15800/live/8d381883150d78e/a34239d0a920469/1612.ts
 #EXTINF:-1,RSI LA 2 HD
-http://192.168.0.158:8001/1:0:19:36E4:6A4:13E:820000:0:0:0:
-#EXTINF:-1,Rai Movie HD
-http://192.168.0.158:8001/1:0:1:4536:30D4:13E:820000:0:0:0:
-#EXTINF:-1,Iris
-http://192.168.0.158:8001/1:0:1:4:1770:110:820000:0:0:0:
-#EXTINF:-1,Paramount Channel
-http://192.168.0.158:8001/1:0:1:E2B:708:C8:820000:0:0:0:
-#EXTINF:-1,Rai Premium HD
-http://192.168.0.158:8001/1:0:1:4535:30D4:13E:820000:0:0:0:
+http://diamondhttps.dnsfor.me:15800/live/8d381883150d78e/a34239d0a920469/1613.ts
 #EXTINF:-1,Rai 4 HD
-http://192.168.0.158:8001/1:0:1:4534:30D4:13E:820000:0:0:0:
+http://diamondhttps.dnsfor.me:15800/live/8d381883150d78e/a34239d0a920469/1641.ts
 #EXTINF:-1,Rai 5 HD
-http://192.168.0.158:8001/1:0:1:452F:30D4:13E:820000:0:0:0:
+http://diamondhttps.dnsfor.me:15800/live/8d381883150d78e/a34239d0a920469/1642.ts
+#EXTINF:-1,Rai Movie HD
+http://diamondhttps.dnsfor.me:15800/live/8d381883150d78e/a34239d0a920469/1646.ts
+#EXTINF:-1,Rai Premium HD
+http://diamondhttps.dnsfor.me:15800/live/8d381883150d78e/a34239d0a920469/1649.ts
 #EXTINF:-1,La 5
-http://192.168.0.158:8001/1:0:1:7:1770:110:820000:0:0:0:
-#EXTINF:-1,Mediaset ITALIA DUE
-http://192.168.0.158:8001/1:0:1:A:1770:110:820000:0:0:0:
-#EXTINF:-1,Mediaset EXTRA
-http://192.168.0.158:8001/1:0:1:9:1770:110:820000:0:0:0:
-#EXTINF:-1,Topcrime
-http://192.168.0.158:8001/1:0:1:C:1770:110:820000:0:0:0:
-#EXTINF:-1,GIALLO
-http://192.168.0.158:8001/1:0:1:E47:16A8:FBFF:820000:0:0:0:
+http://diamondhttps.dnsfor.me:15800/live/8d381883150d78e/a34239d0a920469/1631.ts
+#EXTINF:-1,Mediaset Extra
+http://diamondhttps.dnsfor.me:15800/live/8d381883150d78e/a34239d0a920469/1635.ts
+#EXTINF:-1,Cielo
+http://diamondhttps.dnsfor.me:15800/live/8d381883150d78e/a34239d0a920469/1624.ts
+#EXTINF:-1,Iris
+http://diamondhttps.dnsfor.me:15800/live/8d381883150d78e/a34239d0a920469/1628.ts
+#EXTINF:-1,Spike
+http://diamondhttps.dnsfor.me:15800/live/8d381883150d78e/a34239d0a920469/1627.ts
+#EXTINF:-1,Dmax
+http://diamondhttps.dnsfor.me:15800/live/8d381883150d78e/a34239d0a920469/1626.ts
+#EXTINF:-1,Dmax +1
+http://diamondhttps.dnsfor.me:15800/live/8d381883150d78e/a34239d0a920469/1660.ts
 #EXTINF:-1,Real Time
-http://192.168.0.158:8001/1:0:1:10E4:1644:FBFF:820000:0:0:0:
-#EXTINF:-1,DMAX
-http://192.168.0.158:8001/1:0:1:2C34:251C:FBFF:820000:0:0:0:
-#EXTINF:-1,LA7d
-http://192.168.0.158:8001/1:0:1:48:1770:110:820000:0:0:0:
-#EXTINF:-1,Sposa TV HD
-http://192.168.0.158:8001/1:0:1:2FB2:2DB4:13E:820000:0:0:0:
-#EXTINF:-1,ClassTvModa
-http://192.168.0.158:8001/1:0:1:2C2A:251C:FBFF:820000:0:0:0:
-#EXTINF:-1,Fashion TV
-http://192.168.0.158:8001/1:0:1:DFA:1AF4:FBFF:820000:0:0:0:
-#EXTINF:-1,Fashion
-http://192.168.0.158:8001/1:0:1:1F65:319C:13E:820000:0:0:0:
-#EXTINF:-1,Radio Radio TV
-http://192.168.0.158:8001/1:0:1:FF1:1E14:FBFF:820000:0:0:0:
-#EXTINF:-1,Viva L`Italia
-http://192.168.0.158:8001/1:0:1:2FBD:2DB4:13E:820000:0:0:0:
-#EXTINF:-1,Canale Italia
-http://192.168.0.158:8001/1:0:1:1389:2DB4:13E:820000:0:0:0:
-#EXTINF:-1,TV2000
-http://192.168.0.158:8001/1:0:1:1075:1900:FBFF:820000:0:0:0:
-#EXTINF:-1,SMTv San Marino
-http://192.168.0.158:8001/1:0:1:1C55:1C20:13E:820000:0:0:0:
-#EXTINF:-1,TV K-C
-http://192.168.0.158:8001/1:0:1:C83:2328:13E:820000:0:0:0:
-#EXTINF:-1,Rai Sport + HD
-http://192.168.0.158:8001/1:0:1:D4C:1450:13E:820000:0:0:0:
-#EXTINF:-1,ESP HD Italy
-http://192.168.0.158:8001/1:0:1:3311:190:13E:820000:0:0:0:
-#EXTINF:-1,ESP2 Italy
-http://192.168.0.158:8001/1:0:1:35FE:C8:13E:820000:0:0:0:
-#EXTINF:-1,Q13 AutoMoto Tv SD
-http://192.168.0.158:8001/1:0:1:2FAB:2DB4:13E:820000:0:0:0:
-#EXTINF:-1,WINGA TV
-http://192.168.0.158:8001/1:0:1:51A:3D54:13E:820000:0:0:0:
-#EXTINF:-1,SUPERTENNIS HD
-http://192.168.0.158:8001/1:0:1:7D3:22C4:13E:820000:0:0:0:
-#EXTINF:-1,Class HorseTv
-http://192.168.0.158:8001/1:0:1:2CA1:2580:FBFF:820000:0:0:0:
-#EXTINF:-1,UNIRESAT HD
-http://192.168.0.158:8001/1:0:1:4243:3DB8:13E:820000:0:0:0:
-#EXTINF:-1,Focus
-http://192.168.0.158:8001/1:0:1:E4B:16A8:FBFF:820000:0:0:0:
-#EXTINF:-1,Alice
-http://192.168.0.158:8001/1:0:1:35C4:1388:13E:820000:0:0:0:
-#EXTINF:-1,SPORTELEVISION
-http://192.168.0.158:8001/1:0:1:2FB7:2DB4:13E:820000:0:0:0:
-#EXTINF:-1,Rai Scuola HD
-http://192.168.0.158:8001/1:0:1:4533:30D4:13E:820000:0:0:0:
-#EXTINF:-1,Rai Storia HD
-http://192.168.0.158:8001/1:0:1:D4E:1450:13E:820000:0:0:0:
-#EXTINF:-1,UNINETTUNO UNIVERSITY TV
-http://192.168.0.158:8001/1:0:1:CEC:1518:13E:820000:0:0:0:
-#EXTINF:-1,Italian Fishing Tv
-http://192.168.0.158:8001/1:0:1:FE3:1E14:FBFF:820000:0:0:0:
-#EXTINF:-1,Pescare & Cacciare TV
-http://192.168.0.158:8001/1:0:1:6E0:2F44:13E:820000:0:0:0:
-#EXTINF:-1,RETECONOMY
-http://192.168.0.158:8001/1:0:1:4254:3DB8:13E:820000:0:0:0:
-#EXTINF:-1,Archinews24
-http://192.168.0.158:8001/1:0:1:FD6:1E14:FBFF:820000:0:0:0:
-#EXTINF:-1,TV Art Live
-http://192.168.0.158:8001/1:0:1:2FBF:2DB4:13E:820000:0:0:0:
-#EXTINF:-1,Wine TV
-http://192.168.0.158:8001/1:0:1:FC9:1E14:FBFF:820000:0:0:0:
-#EXTINF:-1,MTV Live HD
-http://192.168.0.158:8001/1:0:19:1:3200:13E:820000:0:0:0:
-#EXTINF:-1,Radio Italia Tv HD
-http://192.168.0.158:8001/1:0:1:4242:3DB8:13E:820000:0:0:0:
-#EXTINF:-1,RTL 102.5 TV HD
-http://192.168.0.158:8001/1:0:19:51B:3D54:13E:820000:0:0:0:
-#EXTINF:-1,RADIOFRECCIA HD
-http://192.168.0.158:8001/1:0:19:51C:3D54:13E:820000:0:0:0:
-#EXTINF:-1,RADIONORBA TV
-http://192.168.0.158:8001/1:0:1:51F:3D54:13E:820000:0:0:0:
-#EXTINF:-1,MEZZO
-http://192.168.0.158:8001/1:0:1:29E5:3CF0:13E:820000:0:0:0:
-#EXTINF:-1,Rai YoYo HD
-http://192.168.0.158:8001/1:0:1:4531:30D4:13E:820000:0:0:0:
-#EXTINF:-1,Rai Gulp HD
-http://192.168.0.158:8001/1:0:1:4530:30D4:13E:820000:0:0:0:
-#EXTINF:-1,Boing
-http://192.168.0.158:8001/1:0:1:6:1770:110:820000:0:0:0:
-#EXTINF:-1,Cartoonito
-http://192.168.0.158:8001/1:0:1:D:1770:110:820000:0:0:0:
-#EXTINF:-1,Super!
-http://192.168.0.158:8001/1:0:1:2C9D:2580:FBFF:820000:0:0:0:
-#EXTINF:-1,Baby TV
-http://192.168.0.158:8001/1:0:1:579:2DB4:13E:820000:0:0:0:
-#EXTINF:-1,Rai News 24 HD
-http://192.168.0.158:8001/1:0:1:D4D:1450:13E:820000:0:0:0:
-#EXTINF:-1,TgCom24
-http://192.168.0.158:8001/1:0:1:8:1770:110:820000:0:0:0:
-#EXTINF:-1,Euronews Italian
-http://192.168.0.158:8001/1:0:1:7E1:22C4:13E:820000:0:0:0:
-#EXTINF:-1,Senato
-http://192.168.0.158:8001/1:0:1:CF2:1518:13E:820000:0:0:0:
-#EXTINF:-1,Camera Deputati
-http://192.168.0.158:8001/1:0:1:CE6:1518:13E:820000:0:0:0:
-#EXTINF:-1,TELEPACE HD
-http://192.168.0.158:8001/1:0:1:7D4:22C4:13E:820000:0:0:0:
+http://diamondhttps.dnsfor.me:15800/live/8d381883150d78e/a34239d0a920469/1652.ts
+#EXTINF:-1,Real Time +1
+http://diamondhttps.dnsfor.me:15800/live/8d381883150d78e/a34239d0a920469/1653.ts
+#EXTINF:-1,Top Crime
+http://diamondhttps.dnsfor.me:15800/live/8d381883150d78e/a34239d0a920469/1657.ts
+#EXTINF:-1,TV8
+http://diamondhttps.dnsfor.me:15800/live/8d381883150d78e/a34239d0a920469/1659.ts
+#EXTINF:-1,Nove HD
+http://diamondhttps.dnsfor.me:15800/live/8d381883150d78e/a34239d0a920469/1625.ts
+#EXTINF:-1,Italia 7 Gold
+http://diamondhttps.dnsfor.me:15800/live/8d381883150d78e/a34239d0a920469/1662.ts
+#EXTINF:-1,TV 2000
+http://diamondhttps.dnsfor.me:15800/live/8d381883150d78e/a34239d0a920469/1658.ts
+#EXTINF:-1,Espansione TV
+http://diamondhttps.dnsfor.me:15800/live/8d381883150d78e/a34239d0a920469/1661.ts
 #EXTINF:-1,Padre Pio Tv
-http://192.168.0.158:8001/1:0:1:4238:3DB8:13E:820000:0:0:0:
-#EXTINF:-1,QVC HD
-http://192.168.0.158:8001/1:0:1:519:3D54:13E:820000:0:0:0:
-#EXTINF:-1,HSE24 HD
-http://192.168.0.158:8001/1:0:19:6C3:2F44:13E:820000:0:0:0:
-#EXTINF:-1,Juwelo
-http://192.168.0.158:8001/1:0:1:132E:33F4:13E:820000:0:0:0:
-#EXTINF:-1,RTS Un HD
-http://192.168.0.158:8001/1:0:19:4333:300C:13E:820000:0:0:0:
-#EXTINF:-1,RTS Deux HD
-http://192.168.0.158:8001/1:0:19:4334:300C:13E:820000:0:0:0:
-#EXTINF:-1,SRF 1 HD
-http://192.168.0.158:8001/1:0:19:4331:300C:13E:820000:0:0:0:
-#EXTINF:-1,SRF zwei HD
-http://192.168.0.158:8001/1:0:19:4332:300C:13E:820000:0:0:0:
-#EXTINF:-1,TF1 HD
-http://192.168.0.158:8001/1:0:1:12D:3E1C:13F:820000:0:0:0:
-#EXTINF:-1,France 2 HD
-http://192.168.0.158:8001/1:0:1:12E:3E1C:13F:820000:0:0:0:
-#EXTINF:-1,Arte HD
-http://192.168.0.158:8001/1:0:1:133:3E1C:13F:820000:0:0:0:
-#EXTINF:-1,France 24 HD (en Francais)
-http://192.168.0.158:8001/1:0:1:327:3BC4:13E:820000:0:0:0:
-#EXTINF:-1,France 24 HD (in English)
-http://192.168.0.158:8001/1:0:1:328:3BC4:13E:820000:0:0:0:
-#EXTINF:-1,ZDF
-http://192.168.0.158:8001/1:0:1:1F4B:319C:13E:820000:0:0:0:
-#EXTINF:-1,CNNi
-http://192.168.0.158:8001/1:0:1:2011:24B8:13E:820000:0:0:0:
-#EXTINF:-1,CNBC PE Hot
-http://192.168.0.158:8001/1:0:1:1D27:2FA8:13E:820000:0:0:0:
-#EXTINF:-1,Bloomberg European TV
-http://192.168.0.158:8001/1:0:1:1C86:332C:13E:820000:0:0:0:
-#EXTINF:-1,BBC World News
-http://192.168.0.158:8001/1:0:1:200C:24B8:13E:820000:0:0:0:
-#EXTINF:-1,RTPi
-http://192.168.0.158:8001/1:0:1:A:2BC:13E:820000:0:0:0:
-#EXTINF:-1,1TVRUS Europe
-http://192.168.0.158:8001/1:0:1:2065:24B8:13E:820000:0:0:0:
-#EXTINF:-1,i24News HD English
-http://192.168.0.158:8001/1:0:1:51E:3D54:13E:820000:0:0:0:
-#EXTINF:-1,i24News HD French
-http://192.168.0.158:8001/1:0:1:51D:3D54:13E:820000:0:0:0:
-#EXTINF:-1,NHK World
-http://192.168.0.158:8001/1:0:1:1C9F:332C:13E:820000:0:0:0:
-#EXTINF:-1,KBS HD
-http://192.168.0.158:8001/1:0:1:7D7:22C4:13E:820000:0:0:0:
-#EXTINF:-1,CCTV 4E
-http://192.168.0.158:8001/1:0:1:367:3C28:13E:820000:0:0:0:
-#EXTINF:-1,Al Jazeera English HD
-http://192.168.0.158:8001/1:0:19:1C8A:332C:13E:820000:0:0:0:
+http://diamondhttps.dnsfor.me:15800/live/8d381883150d78e/a34239d0a920469/16257.ts
+#EXTINF:-1,*-*-*-*-* Sport *-*-*-*-*
+http://diamondhttps.dnsfor.me:15800/live/8d381883150d78e/a34239d0a920469/299.ts
+#EXTINF:-1,Rai Sport 1 HD
+http://diamondhttps.dnsfor.me:15800/live/8d381883150d78e/a34239d0a920469/1650.ts
+#EXTINF:-1,Sport Italia
+http://diamondhttps.dnsfor.me:15800/live/8d381883150d78e/a34239d0a920469/1498.ts
+#EXTINF:-1,Italian Fishing
+http://diamondhttps.dnsfor.me:15800/live/8d381883150d78e/a34239d0a920469/1398.ts
+#EXTINF:-1,Top Calcio 24
+http://diamondhttps.dnsfor.me:15800/live/8d381883150d78e/a34239d0a920469/16309.ts
+#EXTINF:-1,*-*-*-*-* Sky Cinema HD *-*-*-*-*
+http://diamondhttps.dnsfor.me:15800/live/8d381883150d78e/a34239d0a920469/2052.ts
+#EXTINF:-1,Sky Cinema 1 HD
+http://diamondhttps.dnsfor.me:15800/live/8d381883150d78e/a34239d0a920469/254.ts
+#EXTINF:-1,Sky Cinema 1 FHD
+http://diamondhttps.dnsfor.me:15800/live/8d381883150d78e/a34239d0a920469/16278.ts
+#EXTINF:-1,Sky Cinema  +1 HD
+http://diamondhttps.dnsfor.me:15800/live/8d381883150d78e/a34239d0a920469/256.ts
+#EXTINF:-1,Sky Cinema  +24 HD
+http://diamondhttps.dnsfor.me:15800/live/8d381883150d78e/a34239d0a920469/258.ts
+#EXTINF:-1,Sky Cinema  +24 FHD
+http://diamondhttps.dnsfor.me:15800/live/8d381883150d78e/a34239d0a920469/16286.ts
+#EXTINF:-1,Sky Cinema Passion HD
+http://diamondhttps.dnsfor.me:15800/live/8d381883150d78e/a34239d0a920469/266.ts
+#EXTINF:-1,Sky Cinema Passion HD +1
+http://diamondhttps.dnsfor.me:15800/live/8d381883150d78e/a34239d0a920469/2604.ts
+#EXTINF:-1,Sky Cinema Family HD
+http://diamondhttps.dnsfor.me:15800/live/8d381883150d78e/a34239d0a920469/262.ts
+#EXTINF:-1,Sky Cinema Family FHD
+http://diamondhttps.dnsfor.me:15800/live/8d381883150d78e/a34239d0a920469/16275.ts
+#EXTINF:-1,Sky Cinema Family HD +1
+http://diamondhttps.dnsfor.me:15800/live/8d381883150d78e/a34239d0a920469/2602.ts
+#EXTINF:-1,Sky Cinema Comedy HD
+http://diamondhttps.dnsfor.me:15800/live/8d381883150d78e/a34239d0a920469/270.ts
+#EXTINF:-1,Sky Cinema Comedy FHD
+http://diamondhttps.dnsfor.me:15800/live/8d381883150d78e/a34239d0a920469/16277.ts
+#EXTINF:-1,Sky Cinema Comedy HD +1
+http://diamondhttps.dnsfor.me:15800/live/8d381883150d78e/a34239d0a920469/2610.ts
+#EXTINF:-1,Sky Cinema Hits HD
+http://diamondhttps.dnsfor.me:15800/live/8d381883150d78e/a34239d0a920469/260.ts
+#EXTINF:-1,Sky Cinema Hits FHD
+http://diamondhttps.dnsfor.me:15800/live/8d381883150d78e/a34239d0a920469/16284.ts
+#EXTINF:-1,Sky Cinema Hits HD +1
+http://diamondhttps.dnsfor.me:15800/live/8d381883150d78e/a34239d0a920469/2600.ts
+#EXTINF:-1,Sky Cinema Max HD
+http://diamondhttps.dnsfor.me:15800/live/8d381883150d78e/a34239d0a920469/272.ts
+#EXTINF:-1,Sky Cinema Max FHD
+http://diamondhttps.dnsfor.me:15800/live/8d381883150d78e/a34239d0a920469/16276.ts
+#EXTINF:-1,Sky Cinema Max HD +1
+http://diamondhttps.dnsfor.me:15800/live/8d381883150d78e/a34239d0a920469/2606.ts
+#EXTINF:-1,Sky Cinema Cult HD
+http://diamondhttps.dnsfor.me:15800/live/8d381883150d78e/a34239d0a920469/275.ts
+#EXTINF:-1,Sky Cinema Cult HD +1
+http://diamondhttps.dnsfor.me:15800/live/8d381883150d78e/a34239d0a920469/2608.ts
+#EXTINF:-1,Sky Cinema Classic HD
+http://diamondhttps.dnsfor.me:15800/live/8d381883150d78e/a34239d0a920469/1170.ts
+#EXTINF:-1,Sky Cinema Classic HD +1
+http://diamondhttps.dnsfor.me:15800/live/8d381883150d78e/a34239d0a920469/2612.ts
+#EXTINF:-1,*-*-*-*-* Sky Cinema SD *-*-*-*-*
+http://diamondhttps.dnsfor.me:15800/live/8d381883150d78e/a34239d0a920469/2051.ts
+#EXTINF:-1,Sky Cinema 1 HD * SD *
+http://diamondhttps.dnsfor.me:15800/live/8d381883150d78e/a34239d0a920469/1333.ts
+#EXTINF:-1,Sky Cinema  24 * SD  *
+http://diamondhttps.dnsfor.me:15800/live/8d381883150d78e/a34239d0a920469/1334.ts
+#EXTINF:-1,Sky Cinema Passion * SD *
+http://diamondhttps.dnsfor.me:15800/live/8d381883150d78e/a34239d0a920469/1326.ts
+#EXTINF:-1,Sky Cinema Family * SD *
+http://diamondhttps.dnsfor.me:15800/live/8d381883150d78e/a34239d0a920469/1329.ts
+#EXTINF:-1,Sky Cinema Comedy * SD *
+http://diamondhttps.dnsfor.me:15800/live/8d381883150d78e/a34239d0a920469/1331.ts
+#EXTINF:-1,Sky Cinema Hits * SD *
+http://diamondhttps.dnsfor.me:15800/live/8d381883150d78e/a34239d0a920469/1328.ts
+#EXTINF:-1,Sky Cinema Max * SD *
+http://diamondhttps.dnsfor.me:15800/live/8d381883150d78e/a34239d0a920469/1327.ts
+#EXTINF:-1,Sky Cinema Cult *SD *
+http://diamondhttps.dnsfor.me:15800/live/8d381883150d78e/a34239d0a920469/1330.ts
+#EXTINF:-1,Sky Cinema Classic * SD *
+http://diamondhttps.dnsfor.me:15800/live/8d381883150d78e/a34239d0a920469/1332.ts
+#EXTINF:-1,*-*-*-*-* Sky Intrattenimento HD *-*-*-*-*
+http://diamondhttps.dnsfor.me:15800/live/8d381883150d78e/a34239d0a920469/2054.ts
+#EXTINF:-1,Sky Uno HD
+http://diamondhttps.dnsfor.me:15800/live/8d381883150d78e/a34239d0a920469/280.ts
+#EXTINF:-1,Sky Uno FHD
+http://diamondhttps.dnsfor.me:15800/live/8d381883150d78e/a34239d0a920469/16282.ts
+#EXTINF:-1,Sky Uno HD +1
+http://diamondhttps.dnsfor.me:15800/live/8d381883150d78e/a34239d0a920469/2664.ts
+#EXTINF:-1,Sky Atlantic HD
+http://diamondhttps.dnsfor.me:15800/live/8d381883150d78e/a34239d0a920469/283.ts
+#EXTINF:-1,Sky Atlantic FHD
+http://diamondhttps.dnsfor.me:15800/live/8d381883150d78e/a34239d0a920469/16287.ts
+#EXTINF:-1,Sky Atlantic HD +1
+http://diamondhttps.dnsfor.me:15800/live/8d381883150d78e/a34239d0a920469/2666.ts
+#EXTINF:-1,Sky Fox HD
+http://diamondhttps.dnsfor.me:15800/live/8d381883150d78e/a34239d0a920469/287.ts
+#EXTINF:-1,Sky Fox HD +1
+http://diamondhttps.dnsfor.me:15800/live/8d381883150d78e/a34239d0a920469/2668.ts
+#EXTINF:-1,Sky Fox Life HD
+http://diamondhttps.dnsfor.me:15800/live/8d381883150d78e/a34239d0a920469/289.ts
+#EXTINF:-1,Sky Fox Life HD +1
+http://diamondhttps.dnsfor.me:15800/live/8d381883150d78e/a34239d0a920469/2670.ts
+#EXTINF:-1,Sky Fox Crime HD
+http://diamondhttps.dnsfor.me:15800/live/8d381883150d78e/a34239d0a920469/291.ts
+#EXTINF:-1,Sky Fox Crime HD +1
+http://diamondhttps.dnsfor.me:15800/live/8d381883150d78e/a34239d0a920469/2672.ts
+#EXTINF:-1,Sky Fox Comedy HD
+http://diamondhttps.dnsfor.me:15800/live/8d381883150d78e/a34239d0a920469/294.ts
+#EXTINF:-1,Sky Fox Animation HD
+http://diamondhttps.dnsfor.me:15800/live/8d381883150d78e/a34239d0a920469/295.ts
+#EXTINF:-1,Sky Comedy Central
+http://diamondhttps.dnsfor.me:15800/live/8d381883150d78e/a34239d0a920469/2319.ts
+#EXTINF:-1,Sky Comedy Central +1
+http://diamondhttps.dnsfor.me:15800/live/8d381883150d78e/a34239d0a920469/5717.ts
+#EXTINF:-1,Sky Blaze HD
+http://diamondhttps.dnsfor.me:15800/live/8d381883150d78e/a34239d0a920469/16298.ts
+#EXTINF:-1,Sky LaEffe
+http://diamondhttps.dnsfor.me:15800/live/8d381883150d78e/a34239d0a920469/7991.ts
+#EXTINF:-1,Sky Lei
+http://diamondhttps.dnsfor.me:15800/live/8d381883150d78e/a34239d0a920469/8051.ts
+#EXTINF:-1,Gomorra 3 Channel
+http://diamondhttps.dnsfor.me:15800/live/8d381883150d78e/a34239d0a920469/16513.ts
+#EXTINF:-1,Auto Moto TV
+http://diamondhttps.dnsfor.me:15800/live/8d381883150d78e/a34239d0a920469/2079.ts
+#EXTINF:-1,*-*-*-*-* Sky Intrattenimento SD *-*-*-*-*
+http://diamondhttps.dnsfor.me:15800/live/8d381883150d78e/a34239d0a920469/2056.ts
+#EXTINF:-1,Sky Uno * SD *
+http://diamondhttps.dnsfor.me:15800/live/8d381883150d78e/a34239d0a920469/1323.ts
+#EXTINF:-1,Sky Atlantic HD * SD *
+http://diamondhttps.dnsfor.me:15800/live/8d381883150d78e/a34239d0a920469/1336.ts
+#EXTINF:-1,Sky Fox * SD *
+http://diamondhttps.dnsfor.me:15800/live/8d381883150d78e/a34239d0a920469/1341.ts
+#EXTINF:-1,Sky Fox Life * SD *
+http://diamondhttps.dnsfor.me:15800/live/8d381883150d78e/a34239d0a920469/1337.ts
+#EXTINF:-1,Sky Fox Crime * SD *
+http://diamondhttps.dnsfor.me:15800/live/8d381883150d78e/a34239d0a920469/1338.ts
+#EXTINF:-1,Sky Fox Comedy * SD *
+http://diamondhttps.dnsfor.me:15800/live/8d381883150d78e/a34239d0a920469/1339.ts
+#EXTINF:-1,Sky Fox Animation * SD *
+http://diamondhttps.dnsfor.me:15800/live/8d381883150d78e/a34239d0a920469/1340.ts
+#EXTINF:-1,*-*-*-*-*Notizie*-*-*-*-*
+http://diamondhttps.dnsfor.me:15800/live/8d381883150d78e/a34239d0a920469/800.ts
+#EXTINF:-1,Antenna 3
+http://diamondhttps.dnsfor.me:15800/live/8d381883150d78e/a34239d0a920469/1664.ts
+#EXTINF:-1,TGcom 24
+http://diamondhttps.dnsfor.me:15800/live/8d381883150d78e/a34239d0a920469/1656.ts
+#EXTINF:-1,Rai News 24
+http://diamondhttps.dnsfor.me:15800/live/8d381883150d78e/a34239d0a920469/1647.ts
+#EXTINF:-1,Sky TG 24
+http://diamondhttps.dnsfor.me:15800/live/8d381883150d78e/a34239d0a920469/1357.ts
+#EXTINF:-1,Telelombardia
+http://diamondhttps.dnsfor.me:15800/live/8d381883150d78e/a34239d0a920469/1665.ts
+#EXTINF:-1,TgNorba 24
+http://diamondhttps.dnsfor.me:15800/live/8d381883150d78e/a34239d0a920469/1364.ts
+#EXTINF:-1,EuroNews
+http://diamondhttps.dnsfor.me:15800/live/8d381883150d78e/a34239d0a920469/16311.ts
+#EXTINF:-1,*-*-*-*-* Sky Sport HD *-*-*-*-*
+http://diamondhttps.dnsfor.me:15800/live/8d381883150d78e/a34239d0a920469/2058.ts
+#EXTINF:-1,Sky Sport Mix
+http://diamondhttps.dnsfor.me:15800/live/8d381883150d78e/a34239d0a920469/5097.ts
+#EXTINF:-1,Sky Sport 24 HD
+http://diamondhttps.dnsfor.me:15800/live/8d381883150d78e/a34239d0a9
